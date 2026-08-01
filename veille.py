@@ -42,6 +42,7 @@ reponse = requests.post(
 )
 
 # 6. On extrait le texte genere par l'IA
+print("REPONSE BRUT DE GEMINI :", reponse.text)
 texte_ia = reponse.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 # 7. On nettoie (l'IA ajoute parfois des balises ```json)
