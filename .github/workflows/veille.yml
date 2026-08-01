@@ -1,0 +1,37 @@
+name: Veille IA automatique
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # tous les jours a 6h00 UTC
+  workflow_dispatch:          # permet aussi de le lancer a la main
+
+permissions:
+  contents: write             # autorise a enregistrer veille.json
+
+jobs:
+  generer-veille:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les librairies
+        run: pip install feedparser requests
+
+      - name: Lancer le script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python veille.py
+
+      - name: Publier veille.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add veille.json
+          git commit -m "Mise a jour de la veille IA" || echo "Rien a mettre a jour"
+          git push
