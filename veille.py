@@ -34,7 +34,7 @@ consigne = (
 )
 
 # 5. On appelle l'API Gemini
-url_api = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+url_api = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent"
 reponse = requests.post(
     url_api,
     headers={"x-goog-api-key": CLE_API, "Content-Type": "application/json"},
