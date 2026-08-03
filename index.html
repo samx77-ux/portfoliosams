@@ -1380,7 +1380,35 @@
     <div class="section-line"></div>
     <h2 class="section-title">Veille Technologique &mdash; IA &amp; Cloud</h2>
   </div>
+<!-- ===== SYNTHESE IA (genere par l'agent, lit veille.json) ===== -->
+<div style="background:var(--surface);border:1px solid var(--border);padding:20px 28px;margin-bottom:2px;">
+  <span style="font-family:'Space Mono',monospace;font-size:10px;color:#00e5ff;letter-spacing:0.2em;text-transform:uppercase">&#x1f916; Synth&egrave;se IA &mdash; 3 actus cl&eacute;s r&eacute;sum&eacute;es automatiquement</span>
+</div>
+<div id="veille-ia-synthese" style="background:var(--surface);border:1px solid var(--border);border-top:none;padding:8px 28px 24px;margin-bottom:24px;">
+  <div style="text-align:center;padding:20px;font-family:'Space Mono',monospace;font-size:11px;color:var(--muted)">Chargement de la synth&egrave;se IA&hellip;</div>
+</div>
 
+<script>
+(function() {
+  fetch("veille.json?v=" + Date.now())
+    .then(function(r) { return r.json(); })
+    .then(function(actus) {
+      var el = document.getElementById("veille-ia-synthese");
+      var html = "";
+      actus.forEach(function(a) {
+        html += '<a href="' + a.lien + '" target="_blank" rel="noopener" style="display:block;padding:14px 0;border-bottom:1px solid var(--border);text-decoration:none;color:inherit;">';
+        html += '<div class="vf-title">' + a.titre + '</div>';
+        html += '<div class="vf-desc">' + a.resume + '</div>';
+        html += '</a>';
+      });
+      el.innerHTML = html;
+    })
+    .catch(function() {
+      document.getElementById("veille-ia-synthese").innerHTML =
+        '<div style="text-align:center;padding:20px;font-family:Space Mono,monospace;font-size:11px;color:#5a6070">Synth&egrave;se IA indisponible pour le moment.</div>';
+    });
+})();
+</script>
   <div class="veille-grid">
     <div class="veille-feed-header">
       <span style="font-family:'Space Mono',monospace;font-size:10px;color:#a78bfa;letter-spacing:0.2em;text-transform:uppercase">&#x1f916; Intelligence Artificielle</span>
