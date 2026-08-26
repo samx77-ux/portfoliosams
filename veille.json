@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Anthropic, un tiers du capital-risque mondial du trimestre : ce qu'il reste à l'Europe",
-    "resume": "La startup Anthropic a capté à elle seule un tiers des investissements mondiaux en capital-risque ce trimestre, illustrant l'immense concentration des financements aux États-Unis. Face à cette hégémonie, l'Europe peine à rivaliser et doit se contenter d'une part marginale des ressources pour développer ses propres innovations.",
-    "lien": "https://www.actuia.com/actualite/anthropic-un-tiers-du-capital-risque-mondial-du-trimestre-ce-quil-reste-a-leurope/"
-  },
-  {
     "titre": "Fonds souverain de l'IA : ce que la proposition d'Altman révèle du rapport État-industrie américain",
-    "resume": "Sam Altman, patron d'OpenAI, propose la création d'un fonds souverain pour financer les infrastructures massives nécessaires au développement de l'intelligence artificielle. Cette initiative met en lumière une nouvelle dynamique de collaboration de plus en plus étroite entre le gouvernement américain et les géants technologiques privés.",
+    "resume": "La proposition de Sam Altman de créer un fonds souverain pour l'intelligence artificielle met en lumière les nouvelles dynamiques de collaboration étroite entre l'État américain et les géants de la tech. Ce projet ambitieux vise à sécuriser les infrastructures de calcul massives nécessaires pour maintenir la supériorité technologique des États-Unis face à la concurrence mondiale.",
     "lien": "https://www.actuia.com/actualite/fonds-souverain-de-lia-ce-que-la-proposition-daltman-revele-du-rapport-etat-industrie-americain/"
   },
   {
-    "titre": "Pourquoi la rumeur d'un cloud Meta fait plonger les neoclouds",
-    "resume": "L'éventualité du lancement par Meta de sa propre infrastructure cloud dédiée à l'IA a provoqué une inquiétude majeure chez les fournisseurs alternatifs de serveurs de calcul. Ces acteurs spécialisés craignent une concurrence directe et féroce de la part du géant technologique, qui dispose de capacités financières et logistiques démesurées.",
-    "lien": "https://www.actuia.com/actualite/pourquoi-la-rumeur-dun-cloud-meta-fait-plonger-les-neoclouds/"
+    "titre": "Anthropic, un tiers du capital-risque mondial du trimestre : ce qu'il reste à l'Europe",
+    "resume": "La start-up américaine Anthropic a capté à elle seule un tiers des investissements mondiaux en capital-risque ce trimestre, illustrant une concentration extrême des financements autour de quelques géants de l'IA. Cette domination financière écrasante met en évidence le fossé grandissant avec l'Europe, qui peine à mobiliser des capitaux similaires pour soutenir ses propres champions technologiques.",
+    "lien": "https://www.actuia.com/actualite/anthropic-un-tiers-du-capital-risque-mondial-du-trimestre-ce-quil-reste-a-leurope/"
+  },
+  {
+    "titre": "Pendant que la France débat de souveraineté IA, le Portugal a livré la sienne pour 7 M€",
+    "resume": "Le Portugal a concrétisé sa stratégie de souveraineté numérique en développant et en livrant son propre grand modèle de langage pour un budget d'environ 7 millions d'euros. Cette démarche pragmatique et rapide contraste fortement avec la situation en France, où les débats théoriques sur l'indépendance technologique ralentissent le passage à l'action.",
+    "lien": "https://www.actuia.com/actualite/pendant-que-la-france-debat-de-souverainete-ia-le-portugal-a-livre-la-sienne-pour-7-meur/"
   }
 ]
