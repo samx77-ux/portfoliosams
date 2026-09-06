@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Modèles ouverts, la Chine fournit, l'Europe assemble, l'Amérique verrouille",
-    "resume": "Cet article analyse la géopolitique de l'intelligence artificielle open source, où la Chine se distingue par sa production massive de modèles ouverts tandis que les États-Unis tendent à verrouiller leurs technologies. L'Europe, de son côté, se positionne principalement comme un intégrateur de ces solutions étrangères sans véritable souveraineté technologique.",
-    "lien": "https://www.actuia.com/actualite/modeles-ouverts-la-chine-fournit-leurope-assemble-lamerique-verrouille/"
-  },
-  {
     "titre": "Régulation de l'IA : l'été où les textes sont devenus des actes",
-    "resume": "L'été a marqué un tournant décisif dans l'encadrement de l'intelligence artificielle avec l'entrée en vigueur effective des premières réglementations majeures, notamment l'AI Act européen. Les entreprises du secteur doivent désormais passer de la théorie réglementaire à la mise en conformité concrète et opérationnelle.",
+    "resume": "Cet article retrace l'entrée en vigueur concrète des premières réglementations majeures sur l'intelligence artificielle durant la période estivale. Il montre comment les cadres théoriques, notamment l'AI Act européen, se traduisent désormais par des obligations juridiques réelles pour les entreprises.",
     "lien": "https://www.actuia.com/actualite/regulation-de-lia-lete-ou-les-textes-sont-devenus-des-actes/"
   },
   {
+    "titre": "Modèles ouverts, la Chine fournit, l'Europe assemble, l'Amérique verrouille",
+    "resume": "Cet article analyse la dynamique géopolitique mondiale autour du développement des modèles d'intelligence artificielle open source. Il met en lumière le rôle prédominant de la Chine dans la fourniture de technologies, tandis que l'Europe se concentre sur l'assemblage et les États-Unis cherchent à en restreindre l'accès.",
+    "lien": "https://www.actuia.com/actualite/modeles-ouverts-la-chine-fournit-leurope-assemble-lamerique-verrouille/"
+  },
+  {
     "titre": "Fonds souverain de l'IA : ce que la proposition d'Altman révèle du rapport État-industrie américain",
-    "resume": "La proposition de Sam Altman de créer un fonds souverain mondial pour l'IA met en lumière une nouvelle dynamique d'alliance stratégique entre l'État américain et les géants de la tech. Ce projet ambitieux vise à sécuriser le financement des infrastructures massives nécessaires au développement de cette technologie, redéfinissant ainsi la puissance industrielle des États-Unis.",
+    "resume": "Cette analyse décrypte la proposition de Sam Altman de créer un fonds souverain mondial pour financer les infrastructures de l'intelligence artificielle. Elle met en évidence les tensions et les nouvelles alliances stratégiques qui se dessinent entre l'État américain et les géants de l'industrie technologique.",
     "lien": "https://www.actuia.com/actualite/fonds-souverain-de-lia-ce-que-la-proposition-daltman-revele-du-rapport-etat-industrie-americain/"
   }
 ]
