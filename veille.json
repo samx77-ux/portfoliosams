@@ -1,17 +1,17 @@
 [
   {
     "titre": "GPT-6 Astra : ce qui a changé chez OpenAI en quinze jours",
-    "resume": "L'entreprise OpenAI traverse une période de transformations rapides avec des annonces majeures concernant ses futurs modèles, notamment GPT-6 et le projet Astra. Ces évolutions stratégiques visent à maintenir sa position de leader face à une concurrence de plus en plus féroce dans le domaine de l'intelligence artificielle générative.",
+    "resume": "Cet article met en lumière les bouleversements internes et les réorientations stratégiques majeures survenus chez OpenAI en seulement deux semaines autour du développement de son futur modèle, GPT-6 Astra. Ces changements rapides témoignent de la pression croissante et de la course effrénée à l'innovation qui secouent le leader mondial de l'intelligence artificielle.",
     "lien": "https://www.actuia.com/actualite/gpt-6-astra-ce-qui-a-change-chez-openai-en-quinze-jours/"
   },
   {
-    "titre": "Les auteurs des lois américaines sur l'IA de frontière demandent aux laboratoires un « accord de rythme » vérifié par des tiers",
-    "resume": "Des législateurs américains incitent les créateurs d'IA de pointe à ralentir volontairement leur développement via un accord de régulation du rythme supervisé par des auditeurs externes. Cette initiative vise à garantir la sécurité nationale et à prévenir les risques majeurs associés aux modèles d'IA les plus avancés.",
-    "lien": "https://www.actuia.com/actualite/les-auteurs-des-lois-americaines-sur-lia-de-frontiere-demandent-aux-laboratoires-un-accord-de-rythme-verifie-par-des-tiers/"
+    "titre": "Distillation : la NSA, la CISA et le FBI nomment six sociétés chinoises et prescrivent une riposte aux fournisseurs américains",
+    "resume": "Les principales agences de sécurité américaines ont formellement accusé six entreprises chinoises de piller la technologie américaine via des techniques avancées de transfert de connaissances appelées distillation. Pour contrer cette menace, elles appellent les acteurs technologiques des États-Unis à mettre en place des mesures de cyberdéfense et de riposte immédiates.",
+    "lien": "https://www.actuia.com/actualite/distillation-la-nsa-la-cisa-et-le-fbi-nomment-six-societes-chinoises-et-prescrivent-une-riposte-aux-fournisseurs-americains/"
   },
   {
-    "titre": "Distillation : la NSA, la CISA et le FBI nomment six sociétés chinoises et prescrivent une riposte aux fournisseurs américains",
-    "resume": "Les principales agences de sécurité américaines ont formellement identifié des entreprises chinoises impliquées dans des activités de cyberespionnage et de vol technologique de pointe. Elles appellent les fournisseurs américains à renforcer immédiatement leurs défenses et à adopter des mesures de riposte coordonnées face à ces menaces.",
-    "lien": "https://www.actuia.com/actualite/distillation-la-nsa-la-cisa-et-le-fbi-nomment-six-societes-chinoises-et-prescrivent-une-riposte-aux-fournisseurs-americains/"
+    "titre": "L'ACPR juge le cadre européen insuffisant face aux modèles de pointe et réclame un déploiement par paliers",
+    "resume": "Le régulateur financier français estime que l'AI Act européen ne permet pas de gérer efficacement les risques systémiques posés par les modèles d'intelligence artificielle les plus puissants. L'institution propose d'imposer un déploiement progressif et conditionnel de ces technologies afin d'assurer une meilleure sécurité financière et technique.",
+    "lien": "https://www.actuia.com/actualite/lacpr-juge-le-cadre-europeen-insuffisant-face-aux-modeles-de-pointe-et-reclame-un-deploiement-par-paliers/"
   }
 ]
