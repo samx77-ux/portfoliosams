@@ -1,17 +1,17 @@
 [
   {
-    "titre": "GPT-6 Astra : ce qui a changé chez OpenAI en quinze jours",
-    "resume": "Cet article met en lumière les bouleversements internes et les réorientations stratégiques majeures survenus chez OpenAI en seulement deux semaines autour du développement de son futur modèle, GPT-6 Astra. Ces changements rapides témoignent de la pression croissante et de la course effrénée à l'innovation qui secouent le leader mondial de l'intelligence artificielle.",
-    "lien": "https://www.actuia.com/actualite/gpt-6-astra-ce-qui-a-change-chez-openai-en-quinze-jours/"
-  },
-  {
     "titre": "Distillation : la NSA, la CISA et le FBI nomment six sociétés chinoises et prescrivent une riposte aux fournisseurs américains",
-    "resume": "Les principales agences de sécurité américaines ont formellement accusé six entreprises chinoises de piller la technologie américaine via des techniques avancées de transfert de connaissances appelées distillation. Pour contrer cette menace, elles appellent les acteurs technologiques des États-Unis à mettre en place des mesures de cyberdéfense et de riposte immédiates.",
+    "resume": "Les agences de sécurité américaines ont formellement identifié six entreprises chinoises impliquées dans le pillage technologique par distillation de modèles d'IA. Elles appellent instamment les fournisseurs des États-Unis à mettre en œuvre des mesures défensives strictes pour contrer cette menace.",
     "lien": "https://www.actuia.com/actualite/distillation-la-nsa-la-cisa-et-le-fbi-nomment-six-societes-chinoises-et-prescrivent-une-riposte-aux-fournisseurs-americains/"
   },
   {
     "titre": "L'ACPR juge le cadre européen insuffisant face aux modèles de pointe et réclame un déploiement par paliers",
-    "resume": "Le régulateur financier français estime que l'AI Act européen ne permet pas de gérer efficacement les risques systémiques posés par les modèles d'intelligence artificielle les plus puissants. L'institution propose d'imposer un déploiement progressif et conditionnel de ces technologies afin d'assurer une meilleure sécurité financière et technique.",
+    "resume": "L'autorité française de contrôle prudentiel estime que la réglementation européenne actuelle n'est pas adaptée pour gérer les risques systémiques des modèles d'IA les plus avancés. Elle préconise donc d'imposer une mise en service progressive et conditionnelle de ces technologies.",
     "lien": "https://www.actuia.com/actualite/lacpr-juge-le-cadre-europeen-insuffisant-face-aux-modeles-de-pointe-et-reclame-un-deploiement-par-paliers/"
+  },
+  {
+    "titre": "IA de frontière : les auteurs des lois de Californie, New York et Illinois réclament un accord de rythme vérifié par des tiers",
+    "resume": "Des législateurs clés de plusieurs États américains demandent aux grands laboratoires d'IA de s'accorder sur une vitesse de déploiement raisonnable de leurs technologies. Ce processus de régulation interne devrait être audité et validé par des organismes indépendants pour garantir la sécurité publique.",
+    "lien": "https://www.actuia.com/actualite/les-auteurs-des-lois-americaines-sur-lia-de-frontiere-demandent-aux-laboratoires-un-accord-de-rythme-verifie-par-des-tiers/"
   }
 ]
