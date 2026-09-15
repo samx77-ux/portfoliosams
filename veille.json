@@ -1,17 +1,17 @@
 [
   {
     "titre": "GPT-6 Astra : ce qui a changé chez OpenAI en quinze jours",
-    "resume": "L'article analyse les bouleversements récents au sein d'OpenAI, marqués par des départs stratégiques de cadres clés et l'accélération du développement de son futur modèle de pointe, GPT-6 Astra. Ces transformations internes soulignent la course effrénée à la puissance technologique et la restructuration profonde des priorités de l'entreprise face à une concurrence accrue.",
+    "resume": "Cet article analyse les récents bouleversements stratégiques et technologiques au sein d'OpenAI concernant le développement de son futur grand modèle, GPT-6 Astra. Il met en lumière l'évolution rapide de la feuille de route de l'entreprise face aux défis de puissance de calcul et de concurrence.",
     "lien": "https://www.actuia.com/actualite/gpt-6-astra-ce-qui-a-change-chez-openai-en-quinze-jours/"
   },
   {
     "titre": "Distillation : la NSA, la CISA et le FBI nomment six sociétés chinoises et prescrivent une riposte aux fournisseurs américains",
-    "resume": "Les services de renseignement et de sécurité américains ont formellement identifié six entreprises chinoises accusées de piller la propriété intellectuelle des modèles d'IA occidentaux par le biais de la distillation. Face à cette menace de sécurité nationale, ces agences fédérales recommandent aux fournisseurs américains de déployer des contre-mesures techniques immédiates pour protéger leurs technologies.",
+    "resume": "Les agences de sécurité américaines ont formellement identifié six entreprises chinoises impliquées dans le vol de technologies d'IA occidentales par des techniques de 'distillation'. En réponse, elles appellent les fournisseurs américains à renforcer immédiatement leurs défenses et à déployer des contre-mesures techniques.",
     "lien": "https://www.actuia.com/actualite/distillation-la-nsa-la-cisa-et-le-fbi-nomment-six-societes-chinoises-et-prescrivent-une-riposte-aux-fournisseurs-americains/"
   },
   {
     "titre": "L'ACPR juge le cadre européen insuffisant face aux modèles de pointe et réclame un déploiement par paliers",
-    "resume": "L'Autorité de contrôle prudentiel et de résolution estime que la réglementation européenne actuelle n'offre pas de garanties suffisantes contre les risques systémiques posés par les modèles d'IA les plus avancés. Le régulateur français préconise donc une approche de déploiement progressif par étapes afin de mieux encadrer ces technologies avant leur mise sur le marché global.",
+    "resume": "L'autorité de régulation française estime que la législation européenne actuelle est insuffisante pour encadrer efficacement les risques systémiques des modèles d'IA les plus avancés. Elle préconise donc d'imposer un déploiement progressif par paliers afin de tester rigoureusement la sécurité de ces technologies avant leur diffusion.",
     "lien": "https://www.actuia.com/actualite/lacpr-juge-le-cadre-europeen-insuffisant-face-aux-modeles-de-pointe-et-reclame-un-deploiement-par-paliers/"
   }
 ]
