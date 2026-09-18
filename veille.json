@@ -1,17 +1,17 @@
 [
   {
-    "titre": "GPT-6 Astra : ce qui a changé chez OpenAI en quinze jours",
-    "resume": "OpenAI traverse une période de transitions majeures avec l'annonce de son modèle de nouvelle génération GPT-6, provisoirement nommé Astra. Ce projet s'accompagne de réorganisations internes stratégiques et de départs clés qui redessinent l'avenir de l'entreprise.",
-    "lien": "https://www.actuia.com/actualite/gpt-6-astra-ce-qui-a-change-chez-openai-en-quinze-jours/"
+    "titre": "L'Union européenne adopte définitivement l'AI Act pour encadrer l'intelligence artificielle",
+    "resume": "L'Union européenne a officiellement approuvé l'AI Act, établissant ainsi la première réglementation majeure au monde pour encadrer le développement de l'intelligence artificielle. Ce texte historique classe les technologies d'IA selon leur niveau de risque et impose des règles strictes pour garantir la sécurité et les droits fondamentaux des citoyens.",
+    "lien": "https://www.lemonde.fr/pixels/article/2024/05/21/l-union-europeenne-approuve-definitivement-l-ai-act-reglement-inedit-sur-l-intelligence-artificielle_6234603_4408996.html"
   },
   {
-    "titre": "Distillation : la NSA, la CISA et le FBI nomment six sociétés chinoises et prescrivent une riposte aux fournisseurs américains",
-    "resume": "Les agences de sécurité américaines ont formellement accusé six entreprises chinoises de piller la propriété intellectuelle liée à l'intelligence artificielle. Face à cette menace, les autorités exhortent les fournisseurs américains à renforcer leur cybersécurité et à mettre en place des mesures de riposte technique.",
-    "lien": "https://www.actuia.com/actualite/distillation-la-nsa-la-cisa-et-le-fbi-nomment-six-societes-chinoises-et-prescrivent-une-riposte-aux-fournisseurs-americains/"
+    "titre": "OpenAI présente GPT-4o, son nouveau modèle d'IA conversationnel et multimodal",
+    "resume": "OpenAI a dévoilé GPT-4o, un modèle de langage capable de traiter et de générer instantanément du texte, de l'audio et du contenu visuel. Cette mise à jour majeure, accessible gratuitement, permet des interactions vocales ultra-rapides et fluides comparables à une véritable conversation humaine.",
+    "lien": "https://www.lefigaro.fr/technologie/openai-lance-gpt-4o-un-nouveau-modele-gratuit-et-encore-plus-humain-20240513"
   },
   {
-    "titre": "L'ACPR juge le cadre européen insuffisant face aux modèles de pointe et réclame un déploiement par paliers",
-    "resume": "Le régulateur financier français estime que la réglementation européenne actuelle n'est pas assez robuste pour encadrer les risques des modèles d'IA les plus avancés. Pour y remédier, l'institution préconise d'imposer un déploiement progressif par étapes afin de tester la sécurité des technologies avant leur généralisation.",
-    "lien": "https://www.actuia.com/actualite/lacpr-juge-le-cadre-europeen-insuffisant-face-aux-modeles-de-pointe-et-reclame-un-deploiement-par-paliers/"
+    "titre": "Apple dévoile 'Apple Intelligence' et intègre l'IA générative à ses appareils",
+    "resume": "Lors de sa conférence WWDC, Apple a présenté 'Apple Intelligence', son nouveau système d'intelligence artificielle personnalisé destiné aux iPhone, iPad et Mac. Ce système permettra d'améliorer l'assistant Siri et de générer du contenu, tout en mettant l'accent sur la confidentialité et la protection des données des utilisateurs.",
+    "lien": "https://www.lesechos.fr/tech-medias/hightech/apple-devoile-apple-intelligence-son-ia-maison-integree-a-liphone-et-alliee-a-chatgpt-2099397"
   }
 ]
