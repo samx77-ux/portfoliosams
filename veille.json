@@ -1,17 +1,17 @@
 [
   {
-    "titre": "L'Union européenne adopte définitivement l'AI Act pour encadrer l'intelligence artificielle",
-    "resume": "L'Union européenne a officiellement approuvé l'AI Act, établissant ainsi la première réglementation majeure au monde pour encadrer le développement de l'intelligence artificielle. Ce texte historique classe les technologies d'IA selon leur niveau de risque et impose des règles strictes pour garantir la sécurité et les droits fondamentaux des citoyens.",
-    "lien": "https://www.lemonde.fr/pixels/article/2024/05/21/l-union-europeenne-approuve-definitivement-l-ai-act-reglement-inedit-sur-l-intelligence-artificielle_6234603_4408996.html"
+    "titre": "RAG : transformer les documents en vecteurs ne suffit pas à les anonymiser",
+    "resume": "Une étude démontre que la vectorisation des données dans les systèmes RAG ne garantit pas la confidentialité des informations sensibles. Des chercheurs ont prouvé qu'il est possible de reconstruire les textes originaux à partir de ces vecteurs, posant un risque majeur pour la protection des données.",
+    "lien": "https://www.actuia.com/actualite/rag-transformer-les-documents-en-vecteurs-ne-suffit-pas-a-les-anonymiser/"
   },
   {
-    "titre": "OpenAI présente GPT-4o, son nouveau modèle d'IA conversationnel et multimodal",
-    "resume": "OpenAI a dévoilé GPT-4o, un modèle de langage capable de traiter et de générer instantanément du texte, de l'audio et du contenu visuel. Cette mise à jour majeure, accessible gratuitement, permet des interactions vocales ultra-rapides et fluides comparables à une véritable conversation humaine.",
-    "lien": "https://www.lefigaro.fr/technologie/openai-lance-gpt-4o-un-nouveau-modele-gratuit-et-encore-plus-humain-20240513"
+    "titre": "Tri des CV : quand l’IA préfère les candidatures qu’elle a réécrites",
+    "resume": "Les outils d'intelligence artificielle utilisés pour trier les candidatures ont tendance à privilégier les CV que l'IA a elle-même optimisés. Ce biais de circularité favorise de manière disproportionnée certains candidats tout en risquant de standardiser excessivement les profils.",
+    "lien": "https://www.actuia.com/actualite/tri-des-cv-quand-lia-prefere-les-candidatures-quelle-a-reecrites/"
   },
   {
-    "titre": "Apple dévoile 'Apple Intelligence' et intègre l'IA générative à ses appareils",
-    "resume": "Lors de sa conférence WWDC, Apple a présenté 'Apple Intelligence', son nouveau système d'intelligence artificielle personnalisé destiné aux iPhone, iPad et Mac. Ce système permettra d'améliorer l'assistant Siri et de générer du contenu, tout en mettant l'accent sur la confidentialité et la protection des données des utilisateurs.",
-    "lien": "https://www.lesechos.fr/tech-medias/hightech/apple-devoile-apple-intelligence-son-ia-maison-integree-a-liphone-et-alliee-a-chatgpt-2099397"
+    "titre": "Rapport Anthropic : cinq détournements de Claude liés à la France et à l'Afrique francophone",
+    "resume": "Anthropic a révélé plusieurs tentatives d'utilisation malveillante de son modèle Claude à des fins de désinformation et d'influence ciblant la France et l'Afrique francophone. L'entreprise a réagi en suspendant les comptes d'acteurs étatiques et cybercriminels impliqués dans ces campagnes.",
+    "lien": "https://www.actuia.com/actualite/detournements-de-claude-cinq-dossiers-lies-a-la-france-et-a-lafrique-francophone/"
   }
 ]
