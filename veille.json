@@ -1,17 +1,17 @@
 [
   {
     "titre": "RAG : transformer les documents en vecteurs ne suffit pas à les anonymiser",
-    "resume": "Cette étude révèle que la vectorisation des données utilisée dans les systèmes de Retrieval-Augmented Generation (RAG) ne garantit pas la confidentialité des informations sensibles. Des chercheurs ont démontré qu'il est possible de reconstruire les textes originaux à partir de ces vecteurs, posant un risque majeur de fuite de données.",
+    "resume": "Une étude démontre que la vectorisation des données utilisée dans les systèmes de génération augmentée par récupération (RAG) ne garantit pas la confidentialité des informations. Des chercheurs ont réussi à reconstruire les textes originaux à partir de ces vecteurs, posant un risque majeur pour la protection des données sensibles.",
     "lien": "https://www.actuia.com/actualite/rag-transformer-les-documents-en-vecteurs-ne-suffit-pas-a-les-anonymiser/"
   },
   {
-    "titre": "Dans la fabrique d’Anthropic : pouvoir, sécurité et valeurs derrière Claude",
-    "resume": "Cet article explore les coulisses d'Anthropic et les défis éthiques liés au développement de son modèle d'intelligence artificielle Claude. Il met en lumière la tension constante entre la recherche de rentabilité commerciale et la volonté de maintenir des standards de sécurité élevés.",
-    "lien": "https://www.actuia.com/actualite/anthropic-la-securite-de-lia-a-lepreuve-de-lentreprise/"
+    "titre": "Tri des CV : quand l’IA préfère les candidatures qu’elle a réécrites",
+    "resume": "Une étude révèle que les outils d'intelligence artificielle utilisés pour le recrutement ont tendance à favoriser les CV réécrits ou optimisés par d'autres IA. Ce phénomène crée un biais important qui pénalise injustement les candidats rédigeant leur profil de manière authentique sans aide technologique.",
+    "lien": "https://www.actuia.com/actualite/tri-des-cv-quand-lia-prefere-les-candidatures-quelle-a-reecrites/"
   },
   {
-    "titre": "Tri des CV : quand l’IA préfère les candidatures qu’elle a réécrites",
-    "resume": "Une étude met en évidence un biais algorithmique surprenant où les IA de recrutement favorisent systématiquement les CV rédigés ou optimisés par d'autres IA. Ce phénomène pénalise injustement les candidats humains authentiques et standardise de manière excessive le recrutement.",
-    "lien": "https://www.actuia.com/actualite/tri-des-cv-quand-lia-prefere-les-candidatures-quelle-a-reecrites/"
+    "titre": "Rapport Anthropic : cinq détournements de Claude liés à la France et à l'Afrique francophone",
+    "resume": "Anthropic a publié un rapport identifiant cinq campagnes d'influence et de manipulation ciblant la France et l'Afrique francophone via son modèle Claude. L'entreprise a immédiatement pris des mesures pour bloquer ces comptes malveillants qui tentaient d'utiliser l'IA à des fins de désinformation.",
+    "lien": "https://www.actuia.com/actualite/detournements-de-claude-cinq-dossiers-lies-a-la-france-et-a-lafrique-francophone/"
   }
 ]
