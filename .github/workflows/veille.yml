@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write             # autorise a enregistrer veille.json
 
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
 jobs:
   generer-veille:
     runs-on: ubuntu-latest
@@ -34,4 +38,5 @@ jobs:
           git config user.email "actions@github.com"
           git add veille.json
           git commit -m "Mise a jour de la veille IA" || echo "Rien a mettre a jour"
-          git push
+          git pull --rebase origin main
+          git push origin main
