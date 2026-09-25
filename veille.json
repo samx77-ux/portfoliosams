@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Dans la fabrique d’Anthropic : pouvoir, sécurité et valeurs derrière Claude",
-    "resume": "Cet article explore les coulisses d'Anthropic et examine comment l'entreprise tente de concilier la sécurité de son modèle Claude avec les impératifs commerciaux. Il met en lumière les tensions éthiques et stratégiques liées à la définition des valeurs de l'intelligence artificielle au sein d'une start-up en pleine croissance.",
-    "lien": "https://www.actuia.com/actualite/anthropic-la-securite-de-lia-a-lepreuve-de-lentreprise/"
+    "titre": "Le S-1 de Nscale : 103,4 milliards de dollars de contrats, financés par ses clients et par NVIDIA",
+    "resume": "L'entreprise Nscale a déposé son document d'introduction en bourse révélant un montant astronomique de 103,4 milliards de dollars de contrats d'infrastructure IA. Ce développement colossal est soutenu financièrement par des clients majeurs ainsi que par le géant des puces électroniques NVIDIA.",
+    "lien": "https://www.actuia.com/actualite/le-s-1-de-nscale-1034-milliards-de-dollars-de-contrats-finances-par-ses-clients-et-par-nvidia/"
   },
   {
-    "titre": "RAG : transformer les documents en vecteurs ne suffit pas à les anonymiser",
-    "resume": "Une étude démontre que la vectorisation des documents utilisée dans les systèmes RAG ne garantit pas la protection des données confidentielles. Des chercheurs ont réussi à reconstruire des informations sensibles à partir de ces vecteurs, révélant une faille de sécurité majeure pour les entreprises.",
-    "lien": "https://www.actuia.com/actualite/rag-transformer-les-documents-en-vecteurs-ne-suffit-pas-a-les-anonymiser/"
+    "titre": "Claude repère chez des phages un système génétique passé inaperçu",
+    "resume": "L'intelligence artificielle Claude d'Anthropic a permis de découvrir un système génétique jusqu'alors invisible dans le génome de certains virus bactériophages. Cette avancée scientifique démontre le potentiel concret des modèles de langage pour accélérer la recherche biologique et médicale.",
+    "lien": "https://www.actuia.com/actualite/claude-repere-chez-des-phages-un-systeme-genetique-passe-inapercu/"
   },
   {
-    "titre": "Tri des CV : quand l’IA préfère les candidatures qu’elle a réécrites",
-    "resume": "Les systèmes d'intelligence artificielle utilisés pour trier les CV ont tendance à favoriser les candidatures rédigées ou optimisées par d'autres IA. Ce phénomène de boucle de rétroaction pose de sérieuses questions sur l'équité des processus de recrutement automatisés et la standardisation des profils.",
-    "lien": "https://www.actuia.com/actualite/tri-des-cv-quand-lia-prefere-les-candidatures-quelle-a-reecrites/"
+    "titre": "Autorisation préalable et amendes à 7 % : la proposition de loi n° 3149 sur l'IA",
+    "resume": "Cette proposition de loi française vise à encadrer strictement l'intelligence artificielle en imposant une autorisation préalable pour certains systèmes. Elle prévoit également des sanctions financières lourdes pouvant atteindre 7 % du chiffre d'affaires mondial des entreprises contrevenantes.",
+    "lien": "https://www.actuia.com/actualite/autorisation-prealable-et-amendes-a-7-la-proposition-de-loi-n-3149-sur-lia/"
   }
 ]
