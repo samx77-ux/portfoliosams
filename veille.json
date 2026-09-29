@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Claude repère chez des phages un système génétique passé inaperçu",
-    "resume": "L'intelligence artificielle Claude d'Anthropic a permis de découvrir un système génétique inconnu au sein de virus bactériophages. Cette avancée démontre le potentiel concret de l'IA pour accélérer la recherche scientifique et biologique.",
-    "lien": "https://www.actuia.com/actualite/claude-repere-chez-des-phages-un-systeme-genetique-passe-inapercu/"
-  },
-  {
     "titre": "Résumés AI Act : 21 documents sur 24 ne nomment aucun site moissonné dans la rubrique prévue",
-    "resume": "Une analyse montre que la grande majorité des modèles d'IA ne respectent pas l'obligation de transparence de l'AI Act concernant les sources de données utilisées pour leur entraînement. Sur 24 résumés étudiés, 21 omettent de mentionner les sites web moissonnés, révélant un manque de conformité flagrant chez les éditeurs.",
+    "resume": "Une analyse montre que la grande majorité des éditeurs d'IA ne respectent pas l'obligation de transparence de l'AI Act concernant les sources de données d'entraînement. Ce manque d'informations détaillées complique l'application des règles européennes sur le droit d'auteur.",
     "lien": "https://www.actuia.com/actualite/vingt-et-un-resumes-ai-act-sans-liste-des-sites-moissonnes/"
   },
   {
-    "titre": "Proposition de loi n° 3149 : 70 députés LFI veulent une autorisation préalable des modèles d'IA et des amendes à 7 %",
-    "resume": "Des députés de la France Insoumise ont déposé une proposition de loi visant à instaurer un contrôle strict et une autorisation préalable pour le déploiement des modèles d'IA. Le texte prévoit également des sanctions financières lourdes pouvant atteindre 7 % du chiffre d'affaires mondial des entreprises contrevenantes.",
-    "lien": "https://www.actuia.com/actualite/autorisation-prealable-et-amendes-a-7-la-proposition-de-loi-n-3149-sur-lia/"
+    "titre": "Claude repère chez des phages un système génétique passé inaperçu",
+    "resume": "L'intelligence artificielle Claude a permis de découvrir un système génétique inédit chez des virus bactériophages, une structure qui avait échappé aux analyses humaines. Cette avancée démontre le rôle croissant et l'efficacité des grands modèles de langage dans la recherche scientifique de pointe.",
+    "lien": "https://www.actuia.com/actualite/claude-repere-chez-des-phages-un-systeme-genetique-passe-inapercu/"
+  },
+  {
+    "titre": "Le S-1 de Nscale : 103,4 milliards de dollars de contrats, financés par ses clients et par NVIDIA",
+    "resume": "Le document d'introduction en bourse de Nscale révèle un carnet de commandes phénoménal de plus de 103 milliards de dollars pour ses infrastructures de calcul. Ce déploiement colossal est massivement soutenu par des partenariats stratégiques, notamment avec le géant des puces NVIDIA.",
+    "lien": "https://www.actuia.com/actualite/le-s-1-de-nscale-1034-milliards-de-dollars-de-contrats-finances-par-ses-clients-et-par-nvidia/"
   }
 ]
