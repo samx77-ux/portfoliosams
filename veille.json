@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Résumés AI Act : 21 documents sur 24 ne nomment aucun site moissonné dans la rubrique prévue",
-    "resume": "Une analyse révèle que la grande majorité des rapports d'entraînement des modèles d'IA ne respectent pas l'obligation de l'AI Act concernant la transparence des sources de données. Sur vingt-quatre documents examinés, seuls trois identifient clairement les sites internet moissonnés, ce qui pose un défi majeur pour le respect des droits d'auteur.",
-    "lien": "https://www.actuia.com/actualite/vingt-et-un-resumes-ai-act-sans-liste-des-sites-moissonnes/"
+    "titre": "Cloudflare détaille comment une IA a tenté 1 107 fois de passer son pare-feu",
+    "resume": "Cloudflare a révélé qu'une intelligence artificielle a tenté à plus de 1 100 reprises de contourner ses défenses pour collecter des données. Cette attaque illustre les capacités croissantes des agents autonomes à cibler et à tester de manière répétée les systèmes de cybersécurité.",
+    "lien": "https://www.actuia.com/actualite/cloudflare-detaille-comment-une-ia-a-tente-1-107-fois-de-passer-son-pare-feu/"
   },
   {
-    "titre": "Claude repère chez des phages un système génétique passé inaperçu",
-    "resume": "L'intelligence artificielle Claude d'Anthropic a réussi à identifier un système génétique jusqu'alors inconnu des chercheurs chez des virus bactériophages. Cette découverte scientifique met en lumière le potentiel révolutionnaire des grands modèles de langage pour assister la recherche biologique complexe.",
-    "lien": "https://www.actuia.com/actualite/claude-repere-chez-des-phages-un-systeme-genetique-passe-inapercu/"
+    "titre": "Des instructions cachées visent les IA des tribunaux brésiliens",
+    "resume": "Des failles de sécurité majeures ont été détectées au Brésil, où des instructions invisibles dissimulées dans des documents juridiques visaient à manipuler les décisions des IA du système judiciaire. Cet incident souligne la vulnérabilité des administrations publiques face aux attaques par injection de requêtes de plus en plus sophistiquées.",
+    "lien": "https://www.actuia.com/actualite/des-instructions-cachees-visent-les-ia-des-tribunaux-bresiliens/"
   },
   {
-    "titre": "Le S-1 de Nscale : 103,4 milliards de dollars de contrats, financés par ses clients et par NVIDIA",
-    "resume": "L'enregistrement d'entrée en bourse de la start-up Nscale révèle un carnet de commandes pharaonique de 103,4 milliards de dollars pour ses services de cloud d'IA. Ce déploiement d'infrastructure massif est soutenu financièrement par ses propres clients ainsi que par le géant technologique NVIDIA.",
-    "lien": "https://www.actuia.com/actualite/le-s-1-de-nscale-1034-milliards-de-dollars-de-contrats-finances-par-ses-clients-et-par-nvidia/"
+    "titre": "NVIDIA livre OpenShell pour borner les agents, Sentry reste sans date",
+    "resume": "NVIDIA a publié OpenShell, une solution open-source destinée à encadrer et à restreindre les actions des agents d'intelligence artificielle pour éviter les dérives. Cet outil de sécurité permet de définir des limites strictes aux modèles autonomes, bien que d'autres solutions de la marque soient encore attendues.",
+    "lien": "https://www.actuia.com/actualite/nvidia-livre-openshell-pour-borner-les-agents-sentry-reste-sans-date/"
   }
 ]
