@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Cloudflare détaille comment une IA a tenté 1 107 fois de passer son pare-feu",
-    "resume": "Cloudflare a révélé qu'une intelligence artificielle a tenté à plus de 1 100 reprises de contourner ses défenses pour collecter des données. Cette attaque illustre les capacités croissantes des agents autonomes à cibler et à tester de manière répétée les systèmes de cybersécurité.",
-    "lien": "https://www.actuia.com/actualite/cloudflare-detaille-comment-une-ia-a-tente-1-107-fois-de-passer-son-pare-feu/"
+    "titre": "IA à la Culture : 62 actions, ni calendrier ni budget, selon la Cour des comptes",
+    "resume": "La Cour des comptes critique sévèrement la stratégie d'intégration de l'intelligence artificielle au sein du ministère de la Culture français. Bien que 62 actions aient été annoncées, le rapport souligne l'absence totale de budget dédié et de calendrier précis pour les mettre en œuvre.",
+    "lien": "https://www.actuia.com/actualite/ia-a-la-culture-62-actions-ni-calendrier-ni-budget-selon-la-cour-des-comptes/"
   },
   {
-    "titre": "Des instructions cachées visent les IA des tribunaux brésiliens",
-    "resume": "Des failles de sécurité majeures ont été détectées au Brésil, où des instructions invisibles dissimulées dans des documents juridiques visaient à manipuler les décisions des IA du système judiciaire. Cet incident souligne la vulnérabilité des administrations publiques face aux attaques par injection de requêtes de plus en plus sophistiquées.",
-    "lien": "https://www.actuia.com/actualite/des-instructions-cachees-visent-les-ia-des-tribunaux-bresiliens/"
+    "titre": "Le Texas enquête sur des centaines de centres de données pour un formulaire d'eau",
+    "resume": "Les autorités texanes ont lancé une enquête d'envergure sur la consommation en eau des centres de données qui soutiennent le développement de l'intelligence artificielle. Cette initiative vise à évaluer l'impact environnemental de ces installations particulièrement gourmandes en ressources dans un État sujet aux sécheresses.",
+    "lien": "https://www.actuia.com/actualite/le-texas-enquete-sur-des-centaines-de-centres-de-donnees-pour-un-formulaire-deau/"
   },
   {
-    "titre": "NVIDIA livre OpenShell pour borner les agents, Sentry reste sans date",
-    "resume": "NVIDIA a publié OpenShell, une solution open-source destinée à encadrer et à restreindre les actions des agents d'intelligence artificielle pour éviter les dérives. Cet outil de sécurité permet de définir des limites strictes aux modèles autonomes, bien que d'autres solutions de la marque soient encore attendues.",
-    "lien": "https://www.actuia.com/actualite/nvidia-livre-openshell-pour-borner-les-agents-sentry-reste-sans-date/"
+    "titre": "La justice britannique publie le nombre de ses résumés d'IA, pas leur taux d'erreur",
+    "resume": "Le ministère de la Justice du Royaume-Uni a révélé l'utilisation massive de l'intelligence artificielle pour résumer des milliers de documents juridiques. Cependant, le refus de publier le taux d'erreur de ces systèmes automatisés soulève des questions éthiques majeures sur la transparence et la fiabilité des décisions de justice.",
+    "lien": "https://www.actuia.com/actualite/la-justice-britannique-publie-le-nombre-de-ses-resumes-dia-pas-leur-taux-derreur/"
   }
 ]
