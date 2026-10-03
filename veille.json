@@ -1,17 +1,17 @@
 [
   {
-    "titre": "IA à la Culture : 62 actions, ni calendrier ni budget, selon la Cour des comptes",
-    "resume": "La Cour des comptes critique sévèrement la stratégie d'intégration de l'intelligence artificielle au sein du ministère de la Culture français. Bien que 62 actions aient été annoncées, le rapport souligne l'absence totale de budget dédié et de calendrier précis pour les mettre en œuvre.",
-    "lien": "https://www.actuia.com/actualite/ia-a-la-culture-62-actions-ni-calendrier-ni-budget-selon-la-cour-des-comptes/"
-  },
-  {
     "titre": "Le Texas enquête sur des centaines de centres de données pour un formulaire d'eau",
-    "resume": "Les autorités texanes ont lancé une enquête d'envergure sur la consommation en eau des centres de données qui soutiennent le développement de l'intelligence artificielle. Cette initiative vise à évaluer l'impact environnemental de ces installations particulièrement gourmandes en ressources dans un État sujet aux sécheresses.",
+    "resume": "L'État du Texas a lancé une enquête visant des centaines de centres de données pour vérifier leur conformité concernant la déclaration de leur consommation d'eau. Cette initiative souligne les préoccupations environnementales croissantes liées à l'immense empreinte hydrique nécessaire au refroidissement des infrastructures de l'intelligence artificielle.",
     "lien": "https://www.actuia.com/actualite/le-texas-enquete-sur-des-centaines-de-centres-de-donnees-pour-un-formulaire-deau/"
   },
   {
     "titre": "La justice britannique publie le nombre de ses résumés d'IA, pas leur taux d'erreur",
-    "resume": "Le ministère de la Justice du Royaume-Uni a révélé l'utilisation massive de l'intelligence artificielle pour résumer des milliers de documents juridiques. Cependant, le refus de publier le taux d'erreur de ces systèmes automatisés soulève des questions éthiques majeures sur la transparence et la fiabilité des décisions de justice.",
+    "resume": "La justice britannique a révélé avoir généré de nombreux résumés de décisions juridiques grâce à l'intelligence artificielle, sans toutefois en divulguer le taux d'erreur. Ce manque de transparence suscite des inquiétudes quant à la fiabilité et à l'impact de ces outils technologiques dans un domaine aussi sensible que le droit.",
     "lien": "https://www.actuia.com/actualite/la-justice-britannique-publie-le-nombre-de-ses-resumes-dia-pas-leur-taux-derreur/"
+  },
+  {
+    "titre": "IA à la Culture : 62 actions, ni calendrier ni budget, selon la Cour des comptes",
+    "resume": "La Cour des comptes a sévèrement critiqué la stratégie d'intelligence artificielle du ministère de la Culture, pointant du doigt l'absence de calendrier précis et de budget pour ses 62 actions prévues. Ce rapport met en lumière les difficultés de l'État à structurer et à concrétiser efficacement sa transition numérique.",
+    "lien": "https://www.actuia.com/actualite/ia-a-la-culture-62-actions-ni-calendrier-ni-budget-selon-la-cour-des-comptes/"
   }
 ]
