@@ -1,17 +1,17 @@
 [
   {
-    "titre": "OpenAI filigranera ChatGPT dans l'UE mais laisse l'API en option",
-    "resume": "Pour se conformer à l'IA Act de l'Union européenne, OpenAI va intégrer des filigranes invisibles permettant d'identifier les contenus générés par ChatGPT. En revanche, les développeurs qui utilisent les modèles de l'entreprise via l'API ne seront pas soumis à cette obligation de manière stricte.",
-    "lien": "https://www.actuia.com/actualite/openai-filigranera-chatgpt-dans-lue-mais-laisse-lapi-en-option/"
+    "titre": "DeepSeek trie ses investisseurs pour un tour de 10,6 milliards d'euros",
+    "resume": "L'entreprise d'intelligence artificielle chinoise DeepSeek prépare une levée de fonds massive de 10,6 milliards d'euros. Face à l'afflux de demandes, la startup se permet de sélectionner rigoureusement ses futurs actionnaires pour garantir des soutiens stratégiques à long terme.",
+    "lien": "https://www.actuia.com/actualite/deepseek-trie-ses-investisseurs-pour-un-tour-de-80-milliards-de-yuans/"
   },
   {
-    "titre": "Six entreprises françaises sur dix sans cadre pour l'IA (Coface)",
-    "resume": "Une enquête de la Coface révèle que 60 % des entreprises françaises exploitent l'intelligence artificielle sans avoir défini de règles d'usage formelles. Cette absence de gouvernance soulève d'importants risques liés à la sécurité informatique et à la confidentialité des données d'entreprise.",
-    "lien": "https://www.actuia.com/actualite/six-entreprises-sur-dix-utilisent-lia-sans-cadre-selon-coface/"
+    "titre": "Mistral Large 4 : ce que vaut le « meilleur modèle ouvert hors Chine »",
+    "resume": "La startup française Mistral AI a lancé Mistral Large 4, qui s'impose actuellement comme le modèle ouvert le plus performant en dehors de la Chine. Cette nouvelle mouture offre des capacités de raisonnement et de traitement multilingue nettement améliorées pour les entreprises.",
+    "lien": "https://www.actuia.com/actualite/mistral-large-4-ce-que-vaut-le-meilleur-modele-ouvert-hors-chine/"
   },
   {
-    "titre": "Kolibri d'Aleph Alpha : ce que la licence Apache 2.0 garantit",
-    "resume": "La start-up allemande Aleph Alpha a publié sa nouvelle famille de modèles d'IA baptisée Kolibri sous la licence open-source Apache 2.0. Cette licence garantit aux utilisateurs la liberté d'utiliser, de modifier et de distribuer le code de manière très flexible, y compris pour des projets commerciaux.",
-    "lien": "https://www.actuia.com/actualite/kolibri-daleph-alpha-ce-que-la-licence-apache-20-garantit/"
+    "titre": "AI Act : obligations en vigueur et reports de l'omnibus 2026/1744",
+    "resume": "L'Union européenne ajuste le calendrier de déploiement de son règlement sur l'intelligence artificielle grâce à l'adoption d'un texte omnibus. Cette décision repousse certaines échéances réglementaires complexes afin de laisser plus de temps aux acteurs pour s'y conformer.",
+    "lien": "https://www.actuia.com/actualite/calendrier-ai-act-ce-qui-sapplique-ce-que-lomnibus-reporte/"
   }
 ]
