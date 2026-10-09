@@ -1,17 +1,17 @@
 [
   {
-    "titre": "AI Act : obligations en vigueur et reports de l'omnibus 2026/1744",
-    "resume": "Cet article fait le point sur le calendrier de mise en œuvre du règlement européen sur l'intelligence artificielle, l'AI Act. Il détaille les obligations réglementaires qui entrent déjà en vigueur ainsi que les reports accordés par le récent texte omnibus.",
-    "lien": "https://www.actuia.com/actualite/calendrier-ai-act-ce-qui-sapplique-ce-que-lomnibus-reporte/"
-  },
-  {
     "titre": "DeepSeek trie ses investisseurs pour un tour de 10,6 milliards d'euros",
-    "resume": "L'entreprise chinoise DeepSeek prépare une levée de fonds massive de 10,6 milliards d'euros pour soutenir son développement technologique. Face à l'afflux de demandes, la start-up se paie le luxe de sélectionner rigoureusement ses futurs partenaires financiers.",
+    "resume": "La start-up chinoise DeepSeek prépare une levée de fonds massive de 10,6 milliards d'euros auprès d'investisseurs stratégiques particulièrement sélectionnés. Cette opération d'envergure témoigne de l'engouement mondial et de la valorisation record des acteurs majeurs de l'intelligence artificielle.",
     "lien": "https://www.actuia.com/actualite/deepseek-trie-ses-investisseurs-pour-un-tour-de-80-milliards-de-yuans/"
   },
   {
     "titre": "Mistral Large 4 : ce que vaut le « meilleur modèle ouvert hors Chine »",
-    "resume": "La start-up française Mistral AI vient de lancer Mistral Large 4, présenté comme le modèle ouvert le plus performant en dehors de la Chine. Ce nouveau modèle se distingue particulièrement par ses capacités accrues en matière de raisonnement et de codage.",
+    "resume": "La start-up française Mistral AI a lancé son nouveau modèle de langage de pointe baptisé Mistral Large 4. Ce modèle se positionne désormais comme la référence des technologies d'IA ouvertes en dehors du marché chinois grâce à ses performances accrues.",
     "lien": "https://www.actuia.com/actualite/mistral-large-4-ce-que-vaut-le-meilleur-modele-ouvert-hors-chine/"
+  },
+  {
+    "titre": "AI Act : obligations en vigueur et reports de l'omnibus 2026/1744",
+    "resume": "Le calendrier d'application du règlement européen sur l'intelligence artificielle précise les obligations légales immédiates des entreprises du secteur. Néanmoins, l'adoption d'un texte modificatif accorde des reports stratégiques pour la mise en conformité de certains systèmes complexes.",
+    "lien": "https://www.actuia.com/actualite/calendrier-ai-act-ce-qui-sapplique-ce-que-lomnibus-reporte/"
   }
 ]
