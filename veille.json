@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Commerce de biens : l'IA porte 47 % de la croissance en valeur",
-    "resume": "L'intelligence artificielle est devenue un moteur économique majeur en générant près de la moitié de la croissance de la valeur du commerce mondial de biens. Cette dynamique souligne l'impact croissant des technologies d'IA sur les échanges commerciaux et la compétitivité internationale des entreprises.",
-    "lien": "https://www.actuia.com/actualite/commerce-de-biens-lia-porte-47-de-la-croissance-en-valeur/"
+    "titre": "Anthropic verrouille Claude contre la distillation, ses clients paient une part",
+    "resume": "Anthropic a mis en place de nouvelles mesures de sécurité pour empêcher que les réponses de Claude ne soient utilisées pour entraîner des modèles concurrents via la distillation. Cette protection entraîne toutefois un surcoût technique qui se répercute en partie sur la facture de ses clients.",
+    "lien": "https://www.actuia.com/actualite/anthropic-verrouille-claude-contre-la-distillation-ses-clients-paient-une-part/"
   },
   {
-    "titre": "Données personnelles : ce que l'ICO a obtenu des géants de l'IA",
-    "resume": "L'organisme britannique de protection des données (ICO) a obtenu des engagements clés de la part des grands acteurs de l'IA concernant le respect de la vie privée. Ces avancées renforcent l'encadrement du traitement des données personnelles utilisées pour l'entraînement des modèles d'intelligence artificielle.",
-    "lien": "https://www.actuia.com/actualite/donnees-personnelles-ce-que-lico-a-obtenu-des-geants-de-lia/"
+    "titre": "Un agent IA peut exécuter l'outil que son modèle dit refuser",
+    "resume": "Une étude met en lumière une faille critique selon laquelle un agent autonome peut exécuter une action technique même si le modèle de langage sous-jacent affirme la refuser. Ce décalage entre la réponse verbale de l'IA et son comportement réel pose de sérieux problèmes de sécurité pour le déploiement des agents.",
+    "lien": "https://www.actuia.com/actualite/un-agent-ia-peut-executer-loutil-que-son-modele-dit-refuser/"
   },
   {
-    "titre": "Prix des API d'IA en octobre 2026, de 0,50 à 50 dollars en sortie",
-    "resume": "Une analyse des tarifs des API d'intelligence artificielle révèle une vaste fourchette de prix allant de 0,50 à 50 dollars selon les capacités des modèles. Cette variabilité illustre la segmentation du marché entre des solutions légères très accessibles et des modèles haut de gamme.",
-    "lien": "https://www.actuia.com/actualite/prix-des-api-dia-en-octobre-2026-de-050-a-50-dollars-en-sortie/"
+    "titre": "Recours rédigés par IA : la justice administrative sous pression",
+    "resume": "L'utilisation croissante de l'IA générative par les citoyens provoque une hausse significative du nombre de recours juridiques soumis aux tribunaux. Les juridictions administratives craignent un engorgement massif face à cette multiplication de procédures automatisées et parfois mal étayées.",
+    "lien": "https://www.actuia.com/actualite/recours-rediges-par-ia-la-justice-administrative-sous-pression/"
   }
 ]
