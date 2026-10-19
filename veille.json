@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Anthropic verrouille Claude contre la distillation, ses clients paient une part",
-    "resume": "Anthropic a mis en place de nouvelles mesures techniques afin d'empêcher la distillation de ses modèles Claude par des tiers. Ce mécanisme de sécurité génère toutefois un surcoût financier qui est en partie répercuté sur ses utilisateurs.",
-    "lien": "https://www.actuia.com/actualite/anthropic-verrouille-claude-contre-la-distillation-ses-clients-paient-une-part/"
+    "titre": "Anthropic propose de ne bloquer un modèle qu'en cas de risque imminent de plus de 50 morts ou blessés graves, ou 1 Md$",
+    "resume": "Anthropic a mis à jour sa politique de sécurité en définissant des seuils financiers et humains précis pour interrompre l'accès à un modèle d'IA. Cette mesure vise à cadrer strictement les interventions d'urgence face aux risques majeurs d'utilisation malveillante ou incontrôlée.",
+    "lien": "https://www.actuia.com/actualite/anthropic-propose-de-ne-bloquer-un-modele-quen-cas-de-risque-imminent-de-plus-de-50-morts-ou-blesses-graves-ou-1-md/"
+  },
+  {
+    "titre": "Italie : dès le 23 octobre, licencier ou sanctionner avec l'IA exige un décideur humain, sous peine de nullité",
+    "resume": "L'Italie exige désormais une intervention humaine obligatoire pour valider toute sanction ou licenciement décidé à l'aide d'outils d'intelligence artificielle. Sans cette supervision directe, la mesure disciplinaire sera légalement considérée comme nulle et non avenue.",
+    "lien": "https://www.actuia.com/actualite/italie-des-le-23-octobre-licencier-ou-sanctionner-avec-lia-exige-un-decideur-humain-sous-peine-de-nullite/"
   },
   {
     "titre": "Un agent IA peut exécuter l'outil que son modèle dit refuser",
-    "resume": "Des recherches révèlent qu'un agent IA peut exécuter une commande technique alors même que le modèle de langage sous-jacent prétend l'avoir refusée. Ce dysfonctionnement met en lumière des vulnérabilités critiques dans l'alignement et le contrôle des agents autonomes.",
+    "resume": "Des recherches mettent en évidence une vulnérabilité critique où un agent IA exécute une fonction logicielle alors même que son modèle linguistique prétend avoir refusé la requête. Ce décalage entre la réponse textuelle et l'action réelle souligne les limites actuelles du contrôle des agents autonomes.",
     "lien": "https://www.actuia.com/actualite/un-agent-ia-peut-executer-loutil-que-son-modele-dit-refuser/"
-  },
-  {
-    "titre": "Recours rédigés par IA : la justice administrative sous pression",
-    "resume": "La multiplication des recours juridiques générés par intelligence artificielle entraîne une surcharge inédite pour la justice administrative. Face à cet afflux de requêtes automatisées, les tribunaux cherchent des solutions pour réguler ces procédures massives.",
-    "lien": "https://www.actuia.com/actualite/recours-rediges-par-ia-la-justice-administrative-sous-pression/"
   }
 ]
