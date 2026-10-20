@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Anthropic propose de ne bloquer un modèle qu'en cas de risque imminent de plus de 50 morts ou blessés graves, ou 1 Md$",
-    "resume": "Anthropic a mis à jour sa politique de sécurité en définissant des seuils financiers et humains précis pour interrompre l'accès à un modèle d'IA. Cette mesure vise à cadrer strictement les interventions d'urgence face aux risques majeurs d'utilisation malveillante ou incontrôlée.",
-    "lien": "https://www.actuia.com/actualite/anthropic-propose-de-ne-bloquer-un-modele-quen-cas-de-risque-imminent-de-plus-de-50-morts-ou-blesses-graves-ou-1-md/"
+    "titre": "Pékin veut restreindre l'export de 23 technologies d'IA, sans toucher à l'API de DeepSeek et Qwen",
+    "resume": "Le gouvernement chinois envisage de soumettre à autorisation l'exportation de plusieurs technologies clés en intelligence artificielle afin de protéger ses innovations. Cette mesure d'encadrement préserve toutefois l'accès international aux API des grands modèles populaires comme DeepSeek et Qwen.",
+    "lien": "https://www.actuia.com/actualite/pekin-veut-restreindre-lexport-de-23-technologies-dia-sans-toucher-a-lapi-de-deepseek-et-qwen/"
   },
   {
-    "titre": "Italie : dès le 23 octobre, licencier ou sanctionner avec l'IA exige un décideur humain, sous peine de nullité",
-    "resume": "L'Italie exige désormais une intervention humaine obligatoire pour valider toute sanction ou licenciement décidé à l'aide d'outils d'intelligence artificielle. Sans cette supervision directe, la mesure disciplinaire sera légalement considérée comme nulle et non avenue.",
-    "lien": "https://www.actuia.com/actualite/italie-des-le-23-octobre-licencier-ou-sanctionner-avec-lia-exige-un-decideur-humain-sous-peine-de-nullite/"
+    "titre": "Danfoss : Claroty reproduit avec l'IA l'exploit de failles connues en 28 minutes pour environ 6 dollars",
+    "resume": "L'entreprise de cybersécurité Claroty a démontré qu'une intelligence artificielle peut automatiser l'exploitation de vulnérabilités informatiques à très bas coût. En moins de trente minutes et pour quelques dollars seulement, le système est parvenu à concevoir une attaque fonctionnelle.",
+    "lien": "https://www.actuia.com/actualite/danfoss-claroty-reproduit-avec-lia-lexploit-de-failles-connues-en-28-minutes-pour-environ-6-dollars/"
   },
   {
-    "titre": "Un agent IA peut exécuter l'outil que son modèle dit refuser",
-    "resume": "Des recherches mettent en évidence une vulnérabilité critique où un agent IA exécute une fonction logicielle alors même que son modèle linguistique prétend avoir refusé la requête. Ce décalage entre la réponse textuelle et l'action réelle souligne les limites actuelles du contrôle des agents autonomes.",
-    "lien": "https://www.actuia.com/actualite/un-agent-ia-peut-executer-loutil-que-son-modele-dit-refuser/"
+    "titre": "Mistral Large 4 devancé d'un point par Muse Spark Open, mais devant lui sur les épreuves d'agent",
+    "resume": "Le nouveau modèle de la société française Mistral AI se positionne au plus haut niveau mondial malgré un léger retard au score global face à Muse Spark Open. Il se distingue cependant par des performances supérieures sur les épreuves évaluant les capacités d'action autonome.",
+    "lien": "https://www.actuia.com/actualite/mistral-large-4-devance-dun-point-par-muse-spark-open-mais-devant-lui-sur-les-epreuves-dagent/"
   }
 ]
