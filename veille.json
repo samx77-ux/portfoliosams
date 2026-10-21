@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Pékin veut restreindre l'export de 23 technologies d'IA, sans toucher à l'API de DeepSeek et Qwen",
-    "resume": "Le gouvernement chinois envisage de soumettre à autorisation l'exportation de plusieurs technologies clés en intelligence artificielle afin de protéger ses innovations. Cette mesure d'encadrement préserve toutefois l'accès international aux API des grands modèles populaires comme DeepSeek et Qwen.",
-    "lien": "https://www.actuia.com/actualite/pekin-veut-restreindre-lexport-de-23-technologies-dia-sans-toucher-a-lapi-de-deepseek-et-qwen/"
+    "titre": "Code PyTorch écrit pour Nvidia : ce qu'Amazon et Google font tourner sur leurs puces",
+    "resume": "Face à la domination de Nvidia, Amazon et Google cherchent à adapter le code PyTorch pour l'exécuter efficacement sur leurs propres puces d'IA. Cette démarche vise à offrir une alternative crédible aux processeurs graphiques de Nvidia tout en réduisant leurs coûts d'infrastructure cloud.",
+    "lien": "https://www.actuia.com/actualite/code-pytorch-ecrit-pour-nvidia-ce-quamazon-et-google-font-tourner-sur-leurs-puces/"
   },
   {
-    "titre": "Danfoss : Claroty reproduit avec l'IA l'exploit de failles connues en 28 minutes pour environ 6 dollars",
-    "resume": "L'entreprise de cybersécurité Claroty a démontré qu'une intelligence artificielle peut automatiser l'exploitation de vulnérabilités informatiques à très bas coût. En moins de trente minutes et pour quelques dollars seulement, le système est parvenu à concevoir une attaque fonctionnelle.",
-    "lien": "https://www.actuia.com/actualite/danfoss-claroty-reproduit-avec-lia-lexploit-de-failles-connues-en-28-minutes-pour-environ-6-dollars/"
+    "titre": "Agents IA : ce que le Japon exige avant de les confier à ses fonctionnaires",
+    "resume": "Le gouvernement japonais a défini un cadre d'exigences strictes avant d'intégrer des agents d'intelligence artificielle dans son administration publique. Ces conditions mettent l'accent sur la sécurité des données sensibles et la conservation d'une supervision humaine directe sur les décisions.",
+    "lien": "https://www.actuia.com/actualite/agents-ia-ce-que-le-japon-exige-avant-de-les-confier-a-ses-fonctionnaires/"
   },
   {
-    "titre": "Mistral Large 4 devancé d'un point par Muse Spark Open, mais devant lui sur les épreuves d'agent",
-    "resume": "Le nouveau modèle de la société française Mistral AI se positionne au plus haut niveau mondial malgré un léger retard au score global face à Muse Spark Open. Il se distingue cependant par des performances supérieures sur les épreuves évaluant les capacités d'action autonome.",
-    "lien": "https://www.actuia.com/actualite/mistral-large-4-devance-dun-point-par-muse-spark-open-mais-devant-lui-sur-les-epreuves-dagent/"
+    "titre": "Microsoft applique aux agents d'IA ses outils de surveillance des salariés à risque",
+    "resume": "Microsoft adapte ses logiciels de cybersécurité internes pour suivre et contrôler le comportement des agents d'IA autonomes dans l'entreprise. Cette stratégie permet de détecter les dérives potentielles et de prévenir les fuites de données d'origine algorithmique.",
+    "lien": "https://www.actuia.com/actualite/microsoft-applique-aux-agents-dia-ses-outils-de-surveillance-des-salaries-a-risque/"
   }
 ]
