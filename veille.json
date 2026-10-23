@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Actions sans droit de vote : Meta prépare ses levées pour l'IA et Zuckerberg garde le contrôle",
-    "resume": "Meta envisage d'émettre des actions sans droit de vote afin de financer ses investissements colossaux dans l'intelligence artificielle. Cette stratégie financière permettra au groupe de lever massivement des fonds tout en préservant le contrôle absolu de Mark Zuckerberg sur l'entreprise.",
-    "lien": "https://www.actuia.com/actualite/actions-sans-droit-de-vote-meta-prepare-ses-levees-pour-lia-et-zuckerberg-garde-le-controle/"
+    "titre": "AI Act : la première norme harmonisée ne couvre que le système qualité",
+    "resume": "La première norme européenne harmonisée liée à l'AI Act se concentre uniquement sur la mise en place d'un système de gestion de la qualité par les fournisseurs d'IA. Elle laisse pour l'instant de côté des enjeux majeurs comme l'évaluation des risques et le contrôle humain, qui feront l'objet de travaux ultérieurs.",
+    "lien": "https://www.actuia.com/actualite/ai-act-la-premiere-norme-harmonisee-ne-couvre-que-le-systeme-qualite/"
   },
   {
-    "titre": "Contrôle à l'export de l'IA : ce que la menace du Pentagone fait peser sur les clients européens",
-    "resume": "Le Pentagone envisage de durcir les restrictions sur l'exportation des technologies américaines d'intelligence artificielle. Ces menaces de régulation font peser de lourdes incertitudes stratégiques sur les entreprises européennes dépendantes de ces outils.",
-    "lien": "https://www.actuia.com/actualite/controle-a-lexport-de-lia-ce-que-la-menace-du-pentagone-fait-peser-sur-les-clients-europeens/"
+    "titre": "Microsoft : un groupe aligné sur Pékin a détourné des applications ConnectWise avec des agents d'IA",
+    "resume": "Un groupe de cyberespionnage soutenu par la Chine a utilisé des agents d'IA autonomes pour automatiser et optimiser l'exploitation de vulnérabilités logicielles. Cette opération marque une étape préoccupante dans l'utilisation offensive de l'intelligence artificielle par des acteurs étatiques.",
+    "lien": "https://www.actuia.com/actualite/microsoft-un-groupe-aligne-sur-pekin-a-detourne-des-applications-connectwise-avec-des-agents-dia/"
   },
   {
-    "titre": "Commerce agentique : Walmart impose ses règles aux agents d'IA",
-    "resume": "Walmart met en place un cadre strict pour encadrer les interactions entre les agents d'intelligence artificielle autonomes et sa plateforme commerciale. Le géant de la distribution souhaite ainsi adapter son modèle économique à l'essor des achats entièrement automatisés par l'IA.",
-    "lien": "https://www.actuia.com/actualite/commerce-agentique-walmart-impose-ses-regles-aux-agents-dia/"
+    "titre": "Clause LLM de la GSA : ce qu'elle impose aux éditeurs européens",
+    "resume": "L'administration américaine impose désormais des exigences strictes en matière de sécurité et de confidentialité pour l'utilisation des grands modèles de langage. Les éditeurs de logiciels européens doivent se conformer à ces règles s'ils souhaitent vendre leurs solutions d'IA au secteur public américain.",
+    "lien": "https://www.actuia.com/actualite/clause-llm-de-la-gsa-ce-quelle-impose-aux-editeurs-europeens/"
   }
 ]
