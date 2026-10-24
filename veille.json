@@ -1,17 +1,17 @@
 [
   {
     "titre": "AI Act : la première norme harmonisée ne couvre que le système qualité",
-    "resume": "La première norme européenne harmonisée liée à l'AI Act se concentre uniquement sur la mise en place d'un système de gestion de la qualité par les fournisseurs d'IA. Elle laisse pour l'instant de côté des enjeux majeurs comme l'évaluation des risques et le contrôle humain, qui feront l'objet de travaux ultérieurs.",
+    "resume": "La première norme officielle issue du règlement européen sur l'intelligence artificielle se concentre uniquement sur la gestion de la qualité des systèmes. Elle définit les exigences d'organisation pour les entreprises, sans encore traiter des spécificités techniques complexes des modèles d'IA.",
     "lien": "https://www.actuia.com/actualite/ai-act-la-premiere-norme-harmonisee-ne-couvre-que-le-systeme-qualite/"
   },
   {
     "titre": "Microsoft : un groupe aligné sur Pékin a détourné des applications ConnectWise avec des agents d'IA",
-    "resume": "Un groupe de cyberespionnage soutenu par la Chine a utilisé des agents d'IA autonomes pour automatiser et optimiser l'exploitation de vulnérabilités logicielles. Cette opération marque une étape préoccupante dans l'utilisation offensive de l'intelligence artificielle par des acteurs étatiques.",
+    "resume": "Selon Microsoft, des cyberattaquants liés à la Chine ont utilisé des agents d'intelligence artificielle pour compromettre des logiciels professionnels largement déployés. Cette opération démontre la sophistication croissante des attaques étatiques intégrant des technologies d'IA de pointe.",
     "lien": "https://www.actuia.com/actualite/microsoft-un-groupe-aligne-sur-pekin-a-detourne-des-applications-connectwise-avec-des-agents-dia/"
   },
   {
-    "titre": "Clause LLM de la GSA : ce qu'elle impose aux éditeurs européens",
-    "resume": "L'administration américaine impose désormais des exigences strictes en matière de sécurité et de confidentialité pour l'utilisation des grands modèles de langage. Les éditeurs de logiciels européens doivent se conformer à ces règles s'ils souhaitent vendre leurs solutions d'IA au secteur public américain.",
-    "lien": "https://www.actuia.com/actualite/clause-llm-de-la-gsa-ce-quelle-impose-aux-editeurs-europeens/"
+    "titre": "Pékin veut encadrer les agents d'IA du commerce selon leur usage",
+    "resume": "Les autorités chinoises prévoient de mettre en place une réglementation ciblée pour superviser les agents d'intelligence artificielle utilisés dans le secteur commercial. Les exigences imposées dépendront directement des risques encourus et du degré d'autonomie accordé à ces agents.",
+    "lien": "https://www.actuia.com/actualite/pekin-veut-encadrer-les-agents-dia-du-commerce-selon-leur-usage/"
   }
 ]
