@@ -1,17 +1,17 @@
 [
   {
     "titre": "AI Act : la première norme harmonisée ne couvre que le système qualité",
-    "resume": "La première norme officielle publiée pour soutenir l'application du règlement européen sur l'IA se limite au système de gestion de la qualité au sein des entreprises. Elle laisse ainsi de côté d'autres exigences essentielles prévues par la loi, telles que la gestion globale des risques ou la transparence.",
+    "resume": "La première norme européenne harmonisée dans le cadre de l'AI Act se concentre principalement sur les systèmes de gestion de la qualité imposés aux fournisseurs. Elle laisse ainsi de côté pour le moment d'autres exigences cruciales comme l'évaluation approfondie des risques et la transparence.",
     "lien": "https://www.actuia.com/actualite/ai-act-la-premiere-norme-harmonisee-ne-couvre-que-le-systeme-qualite/"
   },
   {
     "titre": "Microsoft : un groupe aligné sur Pékin a détourné des applications ConnectWise avec des agents d'IA",
-    "resume": "Des piratages menés par un groupe soutenu par la Chine ont utilisé des agents d'intelligence artificielle pour optimiser le compromis de logiciels informatiques. Cette attaque illustre une évolution inquiétante de l'usage de l'IA autonome à des fins de cyberespionnage complexe.",
+    "resume": "Un groupe de cyberespionnage lié à la Chine a utilisé des agents d'intelligence artificielle pour compromettre des logiciels de gestion à distance. Cette opération illustre une nouvelle phase de menaces où l'IA accélère et automatise les attaques informatiques complexes.",
     "lien": "https://www.actuia.com/actualite/microsoft-un-groupe-aligne-sur-pekin-a-detourne-des-applications-connectwise-avec-des-agents-dia/"
   },
   {
     "titre": "Pékin veut encadrer les agents d'IA du commerce selon leur usage",
-    "resume": "Les autorités chinoises préparent une nouvelle réglementation destinée à classifier et surveiller les agents d'intelligence artificielle utilisés dans le commerce. Le niveau de contrôle imposé aux entreprises variera en fonction des risques spécifiques générés par l'utilisation de ces systèmes.",
+    "resume": "Les autorités chinoises préparent de nouvelles règles pour encadrer les agents d'intelligence artificielle déployés dans le secteur commercial. La régulation s'adaptera directement aux niveaux de risque et aux cas d'usage spécifiques de ces technologies autonomes.",
     "lien": "https://www.actuia.com/actualite/pekin-veut-encadrer-les-agents-dia-du-commerce-selon-leur-usage/"
   }
 ]
