@@ -1,17 +1,17 @@
 [
   {
-    "titre": "AI Act : la première norme harmonisée ne couvre que le système qualité",
-    "resume": "La première norme européenne liée à l'AI Act se concentre uniquement sur la gestion de la qualité par les fournisseurs de technologies. Elle laisse ainsi de côté pour le moment d'autres exigences clés comme la gestion des risques ou la sécurité.",
-    "lien": "https://www.actuia.com/actualite/ai-act-la-premiere-norme-harmonisee-ne-couvre-que-le-systeme-qualite/"
+    "titre": "OpenAI arrête GPT-4o et GPT-4.1 le 14 janvier, trois mois avant Azure",
+    "resume": "OpenAI prévoit d'interrompre l'accès à ses modèles GPT-4o et GPT-4.1 dès le 14 janvier pour ses utilisateurs directs. Cette décision contraint les développeurs et les entreprises à migrer rapidement leurs applications vers des modèles plus récents.",
+    "lien": "https://www.actuia.com/actualite/openai-arrete-gpt-4o-et-gpt-41-le-14-janvier-trois-mois-avant-azure/"
   },
   {
     "titre": "Microsoft : un groupe aligné sur Pékin a détourné des applications ConnectWise avec des agents d'IA",
-    "resume": "Un groupe de hackers lié à la Chine a détourné des applications ConnectWise pour mener des cyberattaques. Ils ont utilisé des agents d'intelligence artificielle afin d'automatiser et d'accroître l'efficacité de leurs intrusions.",
+    "resume": "Des cybercriminels liés à la Chine ont exploité des agents d'intelligence artificielle pour compromettre des logiciels de gestion informatique. Cette attaque illustre l'utilisation croissante de l'IA autonome par des acteurs étatiques pour optimiser des cyberattaques complexes.",
     "lien": "https://www.actuia.com/actualite/microsoft-un-groupe-aligne-sur-pekin-a-detourne-des-applications-connectwise-avec-des-agents-dia/"
   },
   {
-    "titre": "Administration : l'IA fait basculer le rapport de force vers les usagers",
-    "resume": "L'utilisation de l'intelligence artificielle générative permet désormais aux usagers de rédiger des recours administratifs complexes et rigoureux. Cette évolution rééquilibre le rapport de force en obligeant les administrations à traiter un flux inédit de requêtes très argumentées.",
-    "lien": "https://www.actuia.com/actualite/demandes-redigees-par-ia-le-rapport-de-force-commence-a-basculer-vers-les-usagers/"
+    "titre": "Mistral Large 4 passe de 38 à 25 points sur le nouvel indice d'Artificial Analysis",
+    "resume": "Le modèle phare de l'entreprise française a vu son score ajusté à la baisse suite à la révision des critères d'évaluation d'Artificial Analysis. Ce recul traduit un durcissement des benchmarks mondiaux visant à tester plus rigoureusement les compétences réelles des LLM.",
+    "lien": "https://www.actuia.com/actualite/mistral-large-4-passe-de-38-a-25-points-sur-le-nouvel-indice-dartificial-analysis/"
   }
 ]
