@@ -1,17 +1,17 @@
 [
   {
-    "titre": "OpenAI arrête GPT-4o et GPT-4.1 le 14 janvier, trois mois avant Azure",
-    "resume": "OpenAI prévoit d'interrompre l'accès à ses modèles GPT-4o et GPT-4.1 dès le 14 janvier pour ses utilisateurs directs. Cette décision contraint les développeurs et les entreprises à migrer rapidement leurs applications vers des modèles plus récents.",
-    "lien": "https://www.actuia.com/actualite/openai-arrete-gpt-4o-et-gpt-41-le-14-janvier-trois-mois-avant-azure/"
+    "titre": "Cloud : au troisième trimestre, seul Microsoft a payé ses investissements avec sa trésorerie",
+    "resume": "Au troisième trimestre, les géants du cloud ont fortement augmenté leurs dépenses d'infrastructure liées à l'intelligence artificielle. Parmi eux, Microsoft est le seul groupe à avoir réussi à financer l'intégralité de ces investissements massifs grâce à son propre flux de trésorerie opérationnel.",
+    "lien": "https://www.actuia.com/actualite/cloud-au-troisieme-trimestre-seul-microsoft-a-paye-ses-investissements-avec-sa-tresorerie/"
   },
   {
-    "titre": "Microsoft : un groupe aligné sur Pékin a détourné des applications ConnectWise avec des agents d'IA",
-    "resume": "Des cybercriminels liés à la Chine ont exploité des agents d'intelligence artificielle pour compromettre des logiciels de gestion informatique. Cette attaque illustre l'utilisation croissante de l'IA autonome par des acteurs étatiques pour optimiser des cyberattaques complexes.",
-    "lien": "https://www.actuia.com/actualite/microsoft-un-groupe-aligne-sur-pekin-a-detourne-des-applications-connectwise-avec-des-agents-dia/"
+    "titre": "Gemini 4 Carbon, premier de l'indice d'Artificial Analysis, est réservé aux cyberdéfenseurs",
+    "resume": "Google a développé Gemini 4 Carbon, un modèle d'IA particulièrement performant qui s'est hissé en tête du classement d'Artificial Analysis. Cette version spécialisée est exclusivement mise à la disposition des spécialistes de la cybersécurité pour renforcer la défense des infrastructures numériques.",
+    "lien": "https://www.actuia.com/actualite/gemini-4-carbon-premier-de-lindice-dartificial-analysis-est-reserve-aux-cyberdefenseurs/"
   },
   {
-    "titre": "Mistral Large 4 passe de 38 à 25 points sur le nouvel indice d'Artificial Analysis",
-    "resume": "Le modèle phare de l'entreprise française a vu son score ajusté à la baisse suite à la révision des critères d'évaluation d'Artificial Analysis. Ce recul traduit un durcissement des benchmarks mondiaux visant à tester plus rigoureusement les compétences réelles des LLM.",
-    "lien": "https://www.actuia.com/actualite/mistral-large-4-passe-de-38-a-25-points-sur-le-nouvel-indice-dartificial-analysis/"
+    "titre": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots",
+    "resume": "Google Cloud met désormais à disposition de ses clients Gemini Robotics ER 2, une intelligence artificielle pensée pour la planification et l'orchestration des tâches robotiques. Ce modèle permet aux entreprises d'améliorer l'autonomie et l'exécutabilité des mouvements de leurs robots dans des environnements complexes.",
+    "lien": "https://www.actuia.com/actualite/google-cloud-ouvre-a-ses-clients-gemini-robotics-er-2-qui-planifie-les-taches-des-robots/"
   }
 ]
