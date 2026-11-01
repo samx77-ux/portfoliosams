@@ -1,17 +1,17 @@
 [
   {
+    "titre": "Cloud : au troisième trimestre, seul Microsoft a payé ses investissements avec sa trésorerie",
+    "resume": "Malgré des investissements colossaux dans les infrastructures d'intelligence artificielle, Microsoft est le seul géant du cloud à avoir entièrement autofinancé ses dépenses au troisième trimestre grâce à ses flux de trésorerie. Cette performance financière souligne sa rentabilité face à des concurrents contraints de s'endetter davantage pour financer la course à l'IA.",
+    "lien": "https://www.actuia.com/actualite/cloud-au-troisieme-trimestre-seul-microsoft-a-paye-ses-investissements-avec-sa-tresorerie/"
+  },
+  {
     "titre": "Gemini 4 Carbon, premier de l'indice d'Artificial Analysis, est réservé aux cyberdéfenseurs",
-    "resume": "Google a développé Gemini 4 Carbon, un nouveau modèle d'IA s'imposant en tête du classement de référence d'Artificial Analysis. Cet outil particulièrement performant est exclusivement réservé aux experts de la cyberdéfense pour renforcer la sécurité informatique.",
+    "resume": "Google a développé Gemini 4 Carbon, un nouveau modèle d'IA très performant qui s'est rapidement hissé en tête des classements de référence. Spécifiquement conçu pour la cybersécurité, cet outil reste exclusivement réservé aux experts de la défense informatique pour renforcer la sécurité des systèmes.",
     "lien": "https://www.actuia.com/actualite/gemini-4-carbon-premier-de-lindice-dartificial-analysis-est-reserve-aux-cyberdefenseurs/"
   },
   {
     "titre": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots",
-    "resume": "Google Cloud met désormais à la disposition de ses clients le modèle spécialisé Gemini Robotics ER 2. Cette technologie vise à orchestrer et planifier efficacement les tâches complexes exécutées par les robots.",
+    "resume": "Google Cloud commercialise désormais Gemini Robotics ER 2, une IA spécialisée dans la planification et l'orchestration des tâches robotiques. Cette solution permet aux entreprises d'automatiser des opérations industrielles complexes en traduisant des instructions visuelles et textuelles en actions concrètes.",
     "lien": "https://www.actuia.com/actualite/google-cloud-ouvre-a-ses-clients-gemini-robotics-er-2-qui-planifie-les-taches-des-robots/"
-  },
-  {
-    "titre": "Cloud : au troisième trimestre, seul Microsoft a payé ses investissements avec sa trésorerie",
-    "resume": "Au troisième trimestre, les géants de la tech ont réalisé des investissements colossaux pour soutenir l'expansion des infrastructures liées à l'IA. Parmi ces hyper-scalers, seul Microsoft est parvenu à financer l'intégralité de ces dépenses grâce à sa propre trésorerie sans s'endetter.",
-    "lien": "https://www.actuia.com/actualite/cloud-au-troisieme-trimestre-seul-microsoft-a-paye-ses-investissements-avec-sa-tresorerie/"
   }
 ]
