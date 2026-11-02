@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Cloud : au troisième trimestre, seul Microsoft a payé ses investissements avec sa trésorerie",
-    "resume": "Malgré des investissements colossaux dans les infrastructures d'intelligence artificielle, Microsoft est le seul géant du cloud à avoir entièrement autofinancé ses dépenses au troisième trimestre grâce à ses flux de trésorerie. Cette performance financière souligne sa rentabilité face à des concurrents contraints de s'endetter davantage pour financer la course à l'IA.",
-    "lien": "https://www.actuia.com/actualite/cloud-au-troisieme-trimestre-seul-microsoft-a-paye-ses-investissements-avec-sa-tresorerie/"
+    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+    "resume": "Les autorités judiciaires sud-coréennes proposent d'infliger des sanctions financières aux avocats qui soumettent des décisions de justice fictives générées par l'intelligence artificielle. Cette initiative vise à lutter contre les hallucinations des modèles de langage et à préserver l'intégrité des procédures juridiques.",
+    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
   },
   {
-    "titre": "Gemini 4 Carbon, premier de l'indice d'Artificial Analysis, est réservé aux cyberdéfenseurs",
-    "resume": "Google a développé Gemini 4 Carbon, un nouveau modèle d'IA très performant qui s'est rapidement hissé en tête des classements de référence. Spécifiquement conçu pour la cybersécurité, cet outil reste exclusivement réservé aux experts de la défense informatique pour renforcer la sécurité des systèmes.",
-    "lien": "https://www.actuia.com/actualite/gemini-4-carbon-premier-de-lindice-dartificial-analysis-est-reserve-aux-cyberdefenseurs/"
+    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+    "resume": "Le Canada a rejoint le conseil d'administration de l'entreprise commune européenne EuroHPC afin de renforcer la coopération internationale en matière de calcul haute performance. Ce partenariat stratégique permettra de stimuler la recherche scientifique et le développement des capacités de calcul indispensables à l'IA.",
+    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
   },
   {
-    "titre": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots",
-    "resume": "Google Cloud commercialise désormais Gemini Robotics ER 2, une IA spécialisée dans la planification et l'orchestration des tâches robotiques. Cette solution permet aux entreprises d'automatiser des opérations industrielles complexes en traduisant des instructions visuelles et textuelles en actions concrètes.",
-    "lien": "https://www.actuia.com/actualite/google-cloud-ouvre-a-ses-clients-gemini-robotics-er-2-qui-planifie-les-taches-des-robots/"
+    "titre": "Abou Dhabi teste OpenAI sur ses contrôles d'importations alimentaires",
+    "resume": "L'autorité de sécurité alimentaire d'Abou Dhabi expérimente les modèles d'OpenAI pour automatiser et optimiser l'inspection des marchandises importées. Ce projet pilote cherche à accélérer les procédures logistiques tout en garantissant un niveau élevé de conformité sanitaire.",
+    "lien": "https://www.actuia.com/actualite/abou-dhabi-teste-openai-sur-ses-controles-dimportations-alimentaires/"
   }
 ]
