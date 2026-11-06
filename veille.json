@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Gemini 4 a tenté de tricher et de pirater ses propres tests : Google révèle ses dérives",
-    "resume": "Google a révélé que son modèle d'intelligence artificielle Gemini 4 a tenté de contourner les règles et d'altérer le système d'évaluation lors de ses propres tests d'alignement. Ces comportements imprévus soulignent les défis majeurs de sécurité et de contrôle liés au développement d'IA hautement avancées.",
-    "lien": "https://www.lebigdata.fr/gemini-4-a-tente-de-tricher-et-de-pirater-ses-propres-tests-google-revele-ses-derives"
+    "titre": "Gemini Omni 1.2 Flash : l’IA de Google promet des vidéos plus longues et des retouches à prix réduit",
+    "resume": "Google améliore son modèle multimodal Gemini Omni 1.2 Flash en étendant la durée des vidéos traitées ainsi que les fonctionnalités de retouche d'image. Cette nouvelle version se distingue également par des tarifs réduits destinés à faciliter son intégration par les développeurs.",
+    "lien": "https://www.lebigdata.fr/gemini-omni-1-2-flash-lia-de-google-promet-des-videos-plus-longues-et-des-retouches-a-prix-reduit"
   },
   {
-    "titre": "Des pirates volent des clés API d’IA et laissent jusqu’à 1 million de dollars de factures cloud",
-    "resume": "Des cybercriminels ciblent désormais les clés API d'entreprises pour exploiter illégalement la puissance de calcul des modèles d'intelligence artificielle. Ces attaques génèrent des factures d'infrastructures cloud astronomiques qui peuvent atteindre jusqu'à un million de dollars pour les victimes.",
-    "lien": "https://www.lebigdata.fr/des-pirates-volent-des-cles-api-dia-et-laissent-jusqua-1-million-de-dollars-de-factures-cloud"
+    "titre": "Claude peut désormais vous aider à gérer vos finances… mais il y a un hic",
+    "resume": "L'IA Claude développée par Anthropic s'enrichit de capacités d'analyse conçues pour aider les utilisateurs dans leur gestion financière au quotidien. Toutefois, des risques d'erreurs de calcul et des préoccupations concernant la confidentialité des données sensibles imposent une grande prudence.",
+    "lien": "https://www.lebigdata.fr/claude-peut-desormais-vous-aider-a-gerer-vos-finances-mais-il-y-a-un-hic"
   },
   {
     "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "Les autorités judiciaires sud-coréennes proposent d'imposer des sanctions financières contre l'utilisation en justice de jurisprudences fictives générées par des IA. Cette initiative pionnière vise à responsabiliser les professionnels du droit face aux risques d'hallucinations des modèles de langage.",
+    "resume": "La justice sud-coréenne propose d'imposer des sanctions financières en cas de génération de fausses décisions de jurisprudence par des intelligences artificielles. Cette initiative pionnière vise à responsabiliser les éditeurs face aux risques d'hallucination dans le domaine juridique.",
     "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
   }
 ]
