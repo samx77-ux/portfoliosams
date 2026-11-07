@@ -1,17 +1,17 @@
 [
   {
     "titre": "Gemini Omni 1.2 Flash : l’IA de Google promet des vidéos plus longues et des retouches à prix réduit",
-    "resume": "Google améliore son modèle multimodal Gemini Omni 1.2 Flash en étendant la durée des vidéos traitées ainsi que les fonctionnalités de retouche d'image. Cette nouvelle version se distingue également par des tarifs réduits destinés à faciliter son intégration par les développeurs.",
+    "resume": "Google fait évoluer son modèle multimodal pour permettre la génération de séquences vidéo plus longues et plus complexes. Cette mise à jour s'accompagne également d'une baisse importante des coûts d'utilisation pour l'édition d'images.",
     "lien": "https://www.lebigdata.fr/gemini-omni-1-2-flash-lia-de-google-promet-des-videos-plus-longues-et-des-retouches-a-prix-reduit"
   },
   {
-    "titre": "Claude peut désormais vous aider à gérer vos finances… mais il y a un hic",
-    "resume": "L'IA Claude développée par Anthropic s'enrichit de capacités d'analyse conçues pour aider les utilisateurs dans leur gestion financière au quotidien. Toutefois, des risques d'erreurs de calcul et des préoccupations concernant la confidentialité des données sensibles imposent une grande prudence.",
-    "lien": "https://www.lebigdata.fr/claude-peut-desormais-vous-aider-a-gerer-vos-finances-mais-il-y-a-un-hic"
+    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+    "resume": "Le Canada rejoint officiellement les instances dirigeantes de l'initiative européenne EuroHPC afin de renforcer la coopération internationale dans le calcul haute performance. Cet accord stratégique vise à mutualiser la puissance de calcul nécessaire à l'entraînement des futurs modèles d'intelligence artificielle.",
+    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
   },
   {
     "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "La justice sud-coréenne propose d'imposer des sanctions financières en cas de génération de fausses décisions de jurisprudence par des intelligences artificielles. Cette initiative pionnière vise à responsabiliser les éditeurs face aux risques d'hallucination dans le domaine juridique.",
+    "resume": "Les autorités judiciaires sud-coréennes réclament des sanctions financières contre la soumission de fausses jurisprudences inventées par des intelligences artificielles. Cette initiative marque une étape importante dans la régulation de l'usage des agents conversationnels au sein des procédures légales.",
     "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
   }
 ]
