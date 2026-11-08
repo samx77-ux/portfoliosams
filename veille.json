@@ -1,17 +1,17 @@
 [
   {
     "titre": "Gemini Omni 1.2 Flash : l’IA de Google promet des vidéos plus longues et des retouches à prix réduit",
-    "resume": "Google fait évoluer son modèle multimodal pour permettre la génération de séquences vidéo plus longues et plus complexes. Cette mise à jour s'accompagne également d'une baisse importante des coûts d'utilisation pour l'édition d'images.",
+    "resume": "Google présente Gemini Omni 1.2 Flash, une mise à jour majeure de son modèle d'intelligence artificielle multimodal. Cette version permet de générer des séquences vidéo plus longues et d'effectuer des retouches d'images à un coût nettement réduit.",
     "lien": "https://www.lebigdata.fr/gemini-omni-1-2-flash-lia-de-google-promet-des-videos-plus-longues-et-des-retouches-a-prix-reduit"
   },
   {
-    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
-    "resume": "Le Canada rejoint officiellement les instances dirigeantes de l'initiative européenne EuroHPC afin de renforcer la coopération internationale dans le calcul haute performance. Cet accord stratégique vise à mutualiser la puissance de calcul nécessaire à l'entraînement des futurs modèles d'intelligence artificielle.",
-    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
+    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+    "resume": "La justice sud-coréenne propose d'imposer des sanctions financières aux utilisateurs qui s'appuient sur des jurisprudence fictives générées par l'IA. Cette mesure pionnière vise à contrer les hallucinations des modèles et à protéger la fiabilité des procédures juridiques.",
+    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
   },
   {
-    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "Les autorités judiciaires sud-coréennes réclament des sanctions financières contre la soumission de fausses jurisprudences inventées par des intelligences artificielles. Cette initiative marque une étape importante dans la régulation de l'usage des agents conversationnels au sein des procédures légales.",
-    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
+    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+    "resume": "Le Canada rejoint les instances dirigeantes d'EuroHPC, officialisant un partenariat stratégique majeur avec l'Union européenne dans le domaine du calcul haute performance. Cette alliance permettra d'accélérer le développement des infrastructures nécessaires aux futures avancées en intelligence artificielle.",
+    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
   }
 ]
