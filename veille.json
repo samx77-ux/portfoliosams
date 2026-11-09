@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Gemini Omni 1.2 Flash : l’IA de Google promet des vidéos plus longues et des retouches à prix réduit",
-    "resume": "Google présente Gemini Omni 1.2 Flash, une mise à jour majeure de son modèle d'intelligence artificielle multimodal. Cette version permet de générer des séquences vidéo plus longues et d'effectuer des retouches d'images à un coût nettement réduit.",
-    "lien": "https://www.lebigdata.fr/gemini-omni-1-2-flash-lia-de-google-promet-des-videos-plus-longues-et-des-retouches-a-prix-reduit"
+    "titre": "Nvidia enquête sur Jensen Huang : sa liaison avec une espionne chinoise présumée inquiète le groupe",
+    "resume": "Le dirigeant de Nvidia ferait l'objet d'une enquête interne en raison d'une relation présumée avec une espionne chinoise. Cette affaire suscite de vives inquiétudes sécuritaires et stratégiques pour le plus grand fournisseur mondial de puces IA.",
+    "lien": "https://www.lebigdata.fr/nvidia-enquete-sur-jensen-huang-le-ceo-aurait-eu-une-liaison-avec-une-espionne-chinoise-presumee"
+  },
+  {
+    "titre": "Agents IA : les entreprises tech changent d’organisation",
+    "resume": "L'essor des agents d'intelligence artificielle pousse les entreprises du secteur technologique à restructurer en profondeur leurs équipes et leurs méthodes de travail. Cette transformation majeure vise à optimiser l'intégration de ces outils autonomes au cœur des processus opérationnels.",
+    "lien": "https://www.lebigdata.fr/agents-ia-entreprises-tech-organisation"
   },
   {
     "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "La justice sud-coréenne propose d'imposer des sanctions financières aux utilisateurs qui s'appuient sur des jurisprudence fictives générées par l'IA. Cette mesure pionnière vise à contrer les hallucinations des modèles et à protéger la fiabilité des procédures juridiques.",
+    "resume": "Les autorités judiciaires sud-coréennes proposent de sanctionner financièrement l'utilisation de fausses décisions juridiques générées par des intelligences artificielles. Cette initiative marque une étape importante dans la régulation de l'IA et la lutte contre ses hallucinations dans le domaine du droit.",
     "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
-  },
-  {
-    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
-    "resume": "Le Canada rejoint les instances dirigeantes d'EuroHPC, officialisant un partenariat stratégique majeur avec l'Union européenne dans le domaine du calcul haute performance. Cette alliance permettra d'accélérer le développement des infrastructures nécessaires aux futures avancées en intelligence artificielle.",
-    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
   }
 ]
