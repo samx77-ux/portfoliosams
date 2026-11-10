@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Nvidia enquête sur Jensen Huang : sa liaison avec une espionne chinoise présumée inquiète le groupe",
-    "resume": "Le dirigeant de Nvidia ferait l'objet d'une enquête interne en raison d'une relation présumée avec une espionne chinoise. Cette affaire suscite de vives inquiétudes sécuritaires et stratégiques pour le plus grand fournisseur mondial de puces IA.",
-    "lien": "https://www.lebigdata.fr/nvidia-enquete-sur-jensen-huang-le-ceo-aurait-eu-une-liaison-avec-une-espionne-chinoise-presumee"
+    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+    "resume": "Le Canada rejoint officiellement le conseil d'administration de l'entreprise commune EuroHPC afin de renforcer la coopération internationale dans le domaine du calcul à haute performance. Cet accord stratégique permettra d'intensifier les collaborations scientifiques et le partage d'infrastructures pour stimuler la recherche globale en intelligence artificielle.",
+    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
   },
   {
-    "titre": "Agents IA : les entreprises tech changent d’organisation",
-    "resume": "L'essor des agents d'intelligence artificielle pousse les entreprises du secteur technologique à restructurer en profondeur leurs équipes et leurs méthodes de travail. Cette transformation majeure vise à optimiser l'intégration de ces outils autonomes au cœur des processus opérationnels.",
-    "lien": "https://www.lebigdata.fr/agents-ia-entreprises-tech-organisation"
+    "titre": "Red teaming IA : comment attaquer ses propres modèles avant les vrais pirates",
+    "resume": "Le « red teaming » s'impose désormais comme une méthode incontournable pour évaluer et renforcer la sécurité des modèles d'intelligence artificielle en simulant des cyberattaques réelles. Cette pratique permet d'identifier préventivement les vulnérabilités et les biais informatiques afin de protéger les systèmes avant leur exploitation malveillante.",
+    "lien": "https://www.lebigdata.fr/red-teaming-ia-methodes-outils-risques"
   },
   {
-    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "Les autorités judiciaires sud-coréennes proposent de sanctionner financièrement l'utilisation de fausses décisions juridiques générées par des intelligences artificielles. Cette initiative marque une étape importante dans la régulation de l'IA et la lutte contre ses hallucinations dans le domaine du droit.",
-    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
+    "titre": "Abou Dhabi teste OpenAI sur ses contrôles d'importations alimentaires",
+    "resume": "L'émirat d'Abou Dhabi expérimente les modèles avancés d'OpenAI pour automatiser et accélérer les vérifications réglementaires des denrées alimentaires importées. Ce projet pilote cherche à améliorer l'efficacité des contrôles sanitaires tout en sécurisant la chaîne d'approvisionnement grâce à l'IA.",
+    "lien": "https://www.actuia.com/actualite/abou-dhabi-teste-openai-sur-ses-controles-dimportations-alimentaires/"
   }
 ]
