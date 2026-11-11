@@ -1,17 +1,17 @@
 [
   {
+    "titre": "Google Meet accueille Claude, et l’IA ne vient pas seulement pour écouter… mais il y a un hic",
+    "resume": "Google intègre l'IA Claude d'Anthropic dans sa plateforme de visioconférence Google Meet pour enrichir les fonctionnalités d'analyse et d'interaction lors des réunions. Toutefois, cette nouveauté s'accompagne de contraintes d'accès et soulève des questions relatives à la confidentialité des échanges.",
+    "lien": "https://www.lebigdata.fr/google-meet-accueille-claude-et-lia-ne-vient-pas-seulement-pour-ecouter-mais-il-y-a-un-hic"
+  },
+  {
+    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+    "resume": "Les autorités judiciaires sud-coréennes proposent de sanctionner financièrement l'usage d'IA générant de fausses jurisprudences dans les documents juridiques. Cette mesure vise à préserver l'intégrité du système judiciaire face aux risques d'hallucination des modèles d'intelligence artificielle.",
+    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
+  },
+  {
     "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
-    "resume": "Le Canada rejoint officiellement le conseil d'administration de l'entreprise commune EuroHPC afin de renforcer la coopération internationale dans le domaine du calcul à haute performance. Cet accord stratégique permettra d'intensifier les collaborations scientifiques et le partage d'infrastructures pour stimuler la recherche globale en intelligence artificielle.",
+    "resume": "Le Canada rejoint le conseil d'administration de l'initiative européenne EuroHPC afin de renforcer la coopération internationale dans le calcul à haute performance. Ce partenariat stratégique facilitera l'accès réciproque aux supercalculateurs indispensables pour entraîner des modèles d'IA de pointe.",
     "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
-  },
-  {
-    "titre": "Red teaming IA : comment attaquer ses propres modèles avant les vrais pirates",
-    "resume": "Le « red teaming » s'impose désormais comme une méthode incontournable pour évaluer et renforcer la sécurité des modèles d'intelligence artificielle en simulant des cyberattaques réelles. Cette pratique permet d'identifier préventivement les vulnérabilités et les biais informatiques afin de protéger les systèmes avant leur exploitation malveillante.",
-    "lien": "https://www.lebigdata.fr/red-teaming-ia-methodes-outils-risques"
-  },
-  {
-    "titre": "Abou Dhabi teste OpenAI sur ses contrôles d'importations alimentaires",
-    "resume": "L'émirat d'Abou Dhabi expérimente les modèles avancés d'OpenAI pour automatiser et accélérer les vérifications réglementaires des denrées alimentaires importées. Ce projet pilote cherche à améliorer l'efficacité des contrôles sanitaires tout en sécurisant la chaîne d'approvisionnement grâce à l'IA.",
-    "lien": "https://www.actuia.com/actualite/abou-dhabi-teste-openai-sur-ses-controles-dimportations-alimentaires/"
   }
 ]
