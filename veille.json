@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Google Meet accueille Claude, et l’IA ne vient pas seulement pour écouter… mais il y a un hic",
-    "resume": "Google intègre l'IA Claude d'Anthropic dans sa plateforme de visioconférence Google Meet pour enrichir les fonctionnalités d'analyse et d'interaction lors des réunions. Toutefois, cette nouveauté s'accompagne de contraintes d'accès et soulève des questions relatives à la confidentialité des échanges.",
-    "lien": "https://www.lebigdata.fr/google-meet-accueille-claude-et-lia-ne-vient-pas-seulement-pour-ecouter-mais-il-y-a-un-hic"
+    "titre": "Grok Build laisse fuiter des données sensibles, et le problème est plus grave qu’il n’y paraît",
+    "resume": "Une importante fuite de données a touché la plateforme Grok Build, exposant des informations confidentielles et sensibles d'utilisateurs. Cet incident souligne les risques majeurs de sécurité liés au déploiement précipité des outils basés sur l'intelligence artificielle.",
+    "lien": "https://www.lebigdata.fr/grok-build-laisse-fuiter-des-donnees-sensibles-et-le-probleme-est-plus-grave-quil-ny-parait"
   },
   {
-    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "Les autorités judiciaires sud-coréennes proposent de sanctionner financièrement l'usage d'IA générant de fausses jurisprudences dans les documents juridiques. Cette mesure vise à préserver l'intégrité du système judiciaire face aux risques d'hallucination des modèles d'intelligence artificielle.",
-    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
+    "titre": "Fractile atteint 7 milliards de dollars de valorisation en pariant sur une inférence IA moins coûteuse que Nvidia",
+    "resume": "La jeune entreprise Fractile a atteint une valorisation de 7 milliards de dollars grâce à une solution optimisant les coûts d'inférence en IA. Son objectif est de proposer une alternative économique viable face au quasi-monopole de Nvidia sur le marché des puces.",
+    "lien": "https://www.lebigdata.fr/fractile-valorisation-inference-ia-nvidia"
   },
   {
-    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
-    "resume": "Le Canada rejoint le conseil d'administration de l'initiative européenne EuroHPC afin de renforcer la coopération internationale dans le calcul à haute performance. Ce partenariat stratégique facilitera l'accès réciproque aux supercalculateurs indispensables pour entraîner des modèles d'IA de pointe.",
-    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
+    "titre": "Agents vocaux : Nvidia et ElevenLabs modulent le raisonnement selon la complexité des appels",
+    "resume": "Nvidia et ElevenLabs ont mis au point une méthode permettant de modifier dynamiquement la puissance de calcul allouée aux agents vocaux selon la difficulté de la requête. Cette avancée optimise l'utilisation des ressources informatiques tout en réduisant les temps de réponse.",
+    "lien": "https://www.lebigdata.fr/nvidia-elevenlabs-agents-vocaux-raisonnement"
   }
 ]
