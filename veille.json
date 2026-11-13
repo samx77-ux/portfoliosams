@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Grok Build laisse fuiter des données sensibles, et le problème est plus grave qu’il n’y paraît",
-    "resume": "Une importante fuite de données a touché la plateforme Grok Build, exposant des informations confidentielles et sensibles d'utilisateurs. Cet incident souligne les risques majeurs de sécurité liés au déploiement précipité des outils basés sur l'intelligence artificielle.",
-    "lien": "https://www.lebigdata.fr/grok-build-laisse-fuiter-des-donnees-sensibles-et-le-probleme-est-plus-grave-quil-ny-parait"
+    "titre": "T-Head vers une IPO à Hong Kong : comment Alibaba veut partager le coût de ses puces IA",
+    "resume": "Alibaba envisage d'introduire en bourse sa filiale de semi-conducteurs T-Head afin de financer ses investissements massifs dans les puces d'IA. Cette opération permet au géant chinois de partager les coûts et les risques liés à la conception de composants propriétaires face à la concurrence mondiale.",
+    "lien": "https://www.lebigdata.fr/t-head-ipo-hong-kong-alibaba-puces-ia"
   },
   {
-    "titre": "Fractile atteint 7 milliards de dollars de valorisation en pariant sur une inférence IA moins coûteuse que Nvidia",
-    "resume": "La jeune entreprise Fractile a atteint une valorisation de 7 milliards de dollars grâce à une solution optimisant les coûts d'inférence en IA. Son objectif est de proposer une alternative économique viable face au quasi-monopole de Nvidia sur le marché des puces.",
-    "lien": "https://www.lebigdata.fr/fractile-valorisation-inference-ia-nvidia"
+    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+    "resume": "Les autorités judiciaires sud-coréennes recommandent de sanctionner financièrement l'utilisation en justice de jurisprudences fictives générées par des IA. Cette mesure vise à contrer le phénomène d'hallucination des modèles de langage et à préserver l'intégrité du système judiciaire.",
+    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
   },
   {
-    "titre": "Agents vocaux : Nvidia et ElevenLabs modulent le raisonnement selon la complexité des appels",
-    "resume": "Nvidia et ElevenLabs ont mis au point une méthode permettant de modifier dynamiquement la puissance de calcul allouée aux agents vocaux selon la difficulté de la requête. Cette avancée optimise l'utilisation des ressources informatiques tout en réduisant les temps de réponse.",
-    "lien": "https://www.lebigdata.fr/nvidia-elevenlabs-agents-vocaux-raisonnement"
+    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+    "resume": "Le Canada rejoint officiellement l'initiative européenne EuroHPC en obtenant un droit de vote au sein de son conseil de direction. Ce partenariat stratégique renforce la coopération internationale autour des infrastructures de calcul intensif indispensables à l'avancement de la recherche en IA.",
+    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
   }
 ]
