@@ -1,17 +1,17 @@
 [
   {
     "titre": "T-Head vers une IPO à Hong Kong : comment Alibaba veut partager le coût de ses puces IA",
-    "resume": "Alibaba envisage d'introduire en bourse sa filiale de semi-conducteurs T-Head à la Bourse de Hong Kong afin de financer le développement de ses propres composants pour l'intelligence artificielle. Cette démarche stratégique vise à partager les coûts colossaux de recherche tout en renforçant l'indépendance technologique du géant chinois.",
+    "resume": "Alibaba envisage de faire entrer en bourse sa filiale de semi-conducteurs T-Head afin de financer ses investissements massifs dans les puces dédiées à l'intelligence artificielle. Cette initiative vise à partager le coût élevé du matériel tout en renforçant son indépendance technologique face aux contraintes du secteur.",
     "lien": "https://www.lebigdata.fr/t-head-ipo-hong-kong-alibaba-puces-ia"
   },
   {
-    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "Le système judiciaire sud-coréen propose d'infliger des sanctions financières lors de la présentation de fausses jurisprudences générées par des hallucinations d'IA au tribunal. Cette mesure vise à responsabiliser les professionnels du droit et à garantir l'intégrité des procédures juridiques face aux dérives de ces outils.",
-    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
+    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+    "resume": "Le Canada a rejoint l'initiative européenne EuroHPC pour collaborer sur le développement et l'accès aux supercalculateurs de pointe. Ce partenariat international permettra de mutualiser les capacités de calcul haute performance, devenues indispensables pour la recherche et la puissance de calcul en IA.",
+    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
   },
   {
-    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
-    "resume": "Le Canada a officiellement rejoint l'entreprise commune européenne EuroHPC en obtenant un siège au sein de son conseil d'administration. Cet accord international renforcera la collaboration scientifique et permettra un accès partagé aux infrastructures de calcul intensif indispensables aux avancées en IA.",
-    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
+    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+    "resume": "Des acteurs du système judiciaire coréen proposent de sanctionner financièrement la soumission en justice de décisions ou de jurisprudences inventées par l'intelligence artificielle. Cette mesure vise à contrer le problème croissant des hallucinations générées par les LLM et à garantir l'intégrité des procédures juridiques.",
+    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
   }
 ]
