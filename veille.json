@@ -1,17 +1,17 @@
 [
   {
-    "titre": "T-Head vers une IPO à Hong Kong : comment Alibaba veut partager le coût de ses puces IA",
-    "resume": "Alibaba envisage de faire entrer en bourse sa filiale de semi-conducteurs T-Head afin de financer ses investissements massifs dans les puces dédiées à l'intelligence artificielle. Cette initiative vise à partager le coût élevé du matériel tout en renforçant son indépendance technologique face aux contraintes du secteur.",
-    "lien": "https://www.lebigdata.fr/t-head-ipo-hong-kong-alibaba-puces-ia"
+    "titre": "L'introduction en Bourse d'Anthropic à l'épreuve de l'affaire Nvidia",
+    "resume": "L'entreprise Anthropic prépare son entrée sur les marchés boursiers, ce qui constitue une étape majeure pour l'écosystème des géants de l'intelligence artificielle. Néanmoins, ce projet de cotation doit composer avec les tensions et incertitudes découlant des enquêtes visant le géant des puces Nvidia.",
+    "lien": "https://www.actuia.com/actualite/lintroduction-en-bourse-danthropic-a-lepreuve-de-laffaire-nvidia/"
   },
   {
-    "titre": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
-    "resume": "Le Canada a rejoint l'initiative européenne EuroHPC pour collaborer sur le développement et l'accès aux supercalculateurs de pointe. Ce partenariat international permettra de mutualiser les capacités de calcul haute performance, devenues indispensables pour la recherche et la puissance de calcul en IA.",
-    "lien": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/"
+    "titre": "Qwen4-Max : cette IA d’Alibaba possède 2 400 milliards de paramètres et n’en active qu’une fraction",
+    "resume": "Alibaba a dévoilé Qwen4-Max, un modèle de langage titanesque doté de 2 400 milliards de paramètres. Grâce à une architecture de mélange d'experts, il optimise son efficacité énergétique et sa rapidité en n'activant qu'une partie de ses réseaux selon les requêtes.",
+    "lien": "https://www.lebigdata.fr/qwen4-max-cette-ia-dalibaba-possede-2-400-milliards-de-parametres-et-nen-active-quune-fraction"
   },
   {
-    "titre": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
-    "resume": "Des acteurs du système judiciaire coréen proposent de sanctionner financièrement la soumission en justice de décisions ou de jurisprudences inventées par l'intelligence artificielle. Cette mesure vise à contrer le problème croissant des hallucinations générées par les LLM et à garantir l'intégrité des procédures juridiques.",
-    "lien": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/"
+    "titre": "Avec sa série C à 3 milliards de dollars, LangChain mise sur le contrôle des agents IA",
+    "resume": "LangChain a concrétisé une levée de fonds spectaculaire de 3 milliards de dollars pour renforcer sa position dominante dans le développement logiciel appliqué à l'IA. Cet investissement massif vise principalement à développer des outils de gouvernance et de contrôle des agents autonomes.",
+    "lien": "https://www.lebigdata.fr/langchain-serie-c-controle-agents-ia"
   }
 ]
