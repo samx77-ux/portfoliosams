@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Au-delà de Siri, Apple développerait un agent IA qui agit à votre place",
-    "resume": "Apple travaillerait sur un nouvel agent d'intelligence artificielle autonome capable d'exécuter des actions complexes directement à la place de l'utilisateur. Cet outil dépasserait les capacités actuelles de Siri en interagissant de manière proactive avec l'ensemble des applications de l'écosystème.",
-    "lien": "https://www.lebigdata.fr/au-dela-de-siri-apple-developperait-un-agent-ia-qui-agit-a-votre-place"
-  },
-  {
     "titre": "Mistral fait de Singapour son siège Asie-Pacifique et un pôle de recherche",
-    "resume": "La licorne française Mistral AI implante son nouveau siège régional à Singapour afin d'accélérer son expansion stratégique sur le marché asiatique. Ce pôle accueillera également une équipe de recherche dédiée au développement de partenariats et à l'adaptation de ses modèles.",
+    "resume": "La pépite française de l'intelligence artificielle Mistral AI s'implante à Singapour pour accélérer son expansion dans la région Asie-Pacifique. Ce nouveau hub stratégique combinera des activités commerciales et un centre de recherche spécialisé.",
     "lien": "https://www.actuia.com/actualite/mistral-fait-de-singapour-son-siege-asie-pacifique-et-un-pole-de-recherche/"
   },
   {
+    "titre": "Au-delà de Siri, Apple développerait un agent IA qui agit à votre place",
+    "resume": "Apple concevrait un nouvel agent autonome capable d'exécuter des tâches complexes directement à la place de l'utilisateur. Ce projet ambitieux vise à dépasser les limites actuelles de Siri en automatisant les interactions au cœur du système d'exploitation.",
+    "lien": "https://www.lebigdata.fr/au-dela-de-siri-apple-developperait-un-agent-ia-qui-agit-a-votre-place"
+  },
+  {
     "titre": "Microsoft lance une initiative pour rendre les agents d'IA vérifiables",
-    "resume": "Microsoft a dévoilé un projet majeur visant à renforcer la sécurité, la transparence et la traçabilité des agents autonomes d'IA. L'objectif est d'établir des normes permettant d'auditer et de vérifier scientifiquement les décisions prises par ces programmes.",
+    "resume": "Microsoft introduit une nouvelle démarche technique destinée à renforcer la fiabilité et la sécurité des agents d'intelligence artificielle autonomes. Ce cadre permettra de contrôler et de vérifier l'ensemble des actions exécutées par ces systèmes dans les environnements professionnels.",
     "lien": "https://www.actuia.com/actualite/microsoft-lance-une-initiative-pour-rendre-les-agents-dia-verifiables/"
   }
 ]
